@@ -1,0 +1,51 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "travel_planner_plus_ai",
+    "description": "South France Travel & AI Applications"
+  },
+  "documents": [
+    {
+      "filename": "South of France - Cities.pdf",
+      "title": "South of France - Cities",
+      "language": "English"
+    },
+    {
+      "filename": "South of France - Cuisine.pdf",
+      "title": "South of France - Cuisine",
+      "language": "English"
+    },
+    {
+      "filename": "South of France - History.pdf",
+      "title": "South of France - History",
+      "language": "English"
+    },
+    {
+      "filename": "South of France - Restaurants and Hotels.pdf",
+      "title": "South of France - Restaurants and Hotels",
+      "language": "English"
+    },
+    {
+      "filename": "South of France - Things to Do.pdf",
+      "title": "South of France - Things to Do",
+      "language": "English"
+    },
+    {
+      "filename": "South of France - Tips and Tricks.pdf",
+      "title": "South of France - Tips and Tricks",
+      "language": "English"
+    },
+    {
+      "filename": "South of France - Traditions and Culture.pdf",
+      "title": "South of France - Traditions and Culture",
+      "language": "English"
+    }
+  ],
+  "persona": {
+    "role": "Travel Planner with AI knowledge",
+    "description": "A travel planner skilled in tourism and AI, capable of integrating smart technologies (GIS, GNNs, CNNs) into planning immersive, secure and optimized travel experiences."
+  },
+  "job_to_be_done": {
+    "task": "Plan a 4-day immersive, smart tourism itinerary across South of France for a group of 10 college students using AI and geospatial insights to enhance safety, recommendations, and local interaction."
+  }
+}

@@ -1,0 +1,950 @@
+{
+  "title": "Design and build accessible PDF tables, sample tables",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Design and build",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "accessible PDF tables",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Sample tables",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Table 1",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Column header (TH)",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Row header (TH)",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Data cell (TD)",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Row header(TH)",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Table 2: example of footnotes referenced from within a table",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Expenditure by function £ million",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "2009/10",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "2010/11 1",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Policy functions",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Financial",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "30.57",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Information 2",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Contingency",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Remunerated functions",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Agency services 3",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "35.91",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Payments",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "22.41",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "19.88",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Banking",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "22.90",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "44.23",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Other",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "12.69",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "10.32",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "(1) Provisional total as of publication date.",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "(2) Costs associated with on-going information programmes.",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "(3) From the management accounts, net of recoveries, including interest charges.",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Table 3: \"film credits\" style layout",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Main character Daniel Radcliffe",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Sidekick 1 Rupert Grint",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Sidekick 2 Emma Watson",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Lovable ogre Robbie Coltrane",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Professor Maggie Smith",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Headmaster Richard Harris",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "Table 4: table 3 with column headers added",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Role    Actor",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Table 5: year-end financial statement (£, thousands)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Non-current assets",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Property",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Investment",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Intangibles",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Current assets",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Trade and other receivables",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Cash and cash equivalents",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Table 6: a table with a more serious headings problem",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Rainfall",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "(inches)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Americas",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Europe",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Africa",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Average",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "24 hour high",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "12 hour high",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Table 7: year-end statement, non-current assets (£, thousands)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Table 8: year-end statement, current assets (£, thousands)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Table 9: rainfall by continent, 2009",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Rainfall (inches)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Table 10: self-contained year-end statement (£, thousands) (multiple",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "layout problems)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2010 restated",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "General income",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "250,000",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "200,000",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Increase in value, WIP",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "15,000",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "30,000",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "265,000",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "230,000",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Administrative costs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Staff costs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(200,000)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(150,000)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Early departures",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(10,000)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(20,000)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(25,000)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Depreciation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Programme costs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Impairment loss",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(5,000)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(260,000)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Surplus",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "5,000",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Table 11: self-contained year-end statement (£, thousands) (multiple",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "problems resolved)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Income",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Increase in value",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Total income",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Other operating costs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Total costs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Table 12: merged data cells are not recommended",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "[data relating to both columns in",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "a single cell spanning both]",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table 13: use of graphic symbols",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Question",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Respondent A Respondent B",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Respondent C",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Are you a UK citizen?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Are you currently employed?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Do you have a driving licence?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table 14: symbols replaced by real text",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table 15: courses offered by Institution X. A = Bachelor of Science,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "B = Bachelor of Arts, C = Masters, D = Doctorate, E = Diploma",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Economics",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "International relations",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Philosophy",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Politics",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Mathematics",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "English",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table 16:  Masters courses offered by Institution X",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table 17: accounts, 2011 (£, thousands)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Accounting item",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Income General income",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Income subtotal",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Administrative costs Staff",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "150,000",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "20,000",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "10,000",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Programme costs Impairment loss",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Costs subtotal",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Balance",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table 18: accounts, 2011 (£, thousands)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table 19: Human Development Index (HDI)",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "trends, 1980 to 2010. Source: Barro-Lee March, 2010",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Country",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Afghanistan",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Albania",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "10.38",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Algeria",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Andorra",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "10.35",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Angola",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Table 20: footnotes referenced from within a table",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Expenditure by function £million",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "(3) From the management accounts, net of recoveries and including interest charges",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Table 21: footnotes replaced by additional table summary text",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2010/11",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Information",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agency services",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Table 22: referencing multiple endnotes from within a table",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Expenditure £m",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Notes",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "(Notes located on  page [n])",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Banking services",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Interest",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Dividends",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Table 23: simulated table created using tabs and containing no",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "structure",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Entered",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Completed",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Table 24: year-end financial statement (£, thousands)",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Buildings",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Trade",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Current liabilities",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Trade liabilities",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Financial debt",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Provisions",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Table 25: setting column and row scope via the tags panel",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Table 26: courses offered by Institution X. A = Bachelor of Science,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Table 27: “table” with columns simulated by using tab stops",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Apples",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Pears",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Bob Scott",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Susan. P. Arnold-Jones, BA, FRSA, MD",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Sam Holder-Dickinson",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Table 28: year-end financial table (£, thousands) – headings problem",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "revisited",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Table 29: multiple headers attributes for each data cell",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "South America",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Australia",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Highest average",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "523.6",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "467.4",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "405.0",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "340.5",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Highest in 24 hours",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Highest in 12 hours",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "487.7",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "453.6",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "398.7",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "496.7",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "444.3",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "502.1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "399.6",
+      "page": 10
+    }
+  ]
+}

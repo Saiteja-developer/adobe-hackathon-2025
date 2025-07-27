@@ -1,0 +1,6505 @@
+{
+  "title": "World Travel & Tourism Council",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "World Travel & Tourism Council",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "< Contents  |",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "INTRODUCTION",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "TO ARTIFICIAL",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "INTELLIGENCE (AI)",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "TECHNOLOGY",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "GUIDE FOR TRAVEL & TOURISM LEADERS",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "January 2024",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "CONTENTS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "FOREWORD ...........................................................................................................3",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION ..................................................................................................4",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Brief history of Artificial Intelligence (AI)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "What is Artificial Intelligence & Why There is Global Interest Now",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Algorithms : The Brains of AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Data : The Fuel That Drives AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Computing Power : The Machines Behind AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Types of Artificial Intelligence",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Generative AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Global Digital Divide & AI Skills Gap",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "QUIZ....................................................................................................................... 34",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ANNEX : AI TERMINOLOGY..........................................................................35",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "QUIZ ANSWER ...................................................................................................40",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ACKNOWLEDGEMENTS .................................................................................41",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ENDNOTES .......................................................................................................... 42",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "In 1950, codebreaker and now celebrated computer scientist, Alan Turing, posed one of the most",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "interesting questions ever faced by humankind - can machines think?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Artificial Intelligence (AI) has occupied scientists for decades. But in 2023, it caught the attention of",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "global businesses, policymakers and civil society alike. In the UK, King Charles III called it “one of the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "greatest technological leaps in the history of human endeavour”. The UN Secretary General described",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "AI as “unprecedented” and even the Pope stated that AI “has the potential to contribute in a positive",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "way to the future of humanity” before dedicating World Peace Day 2023 to the use of AI.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "As business leaders in Travel & Tourism it is vital that we understand the opportunities and challenges",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "of this transformative technology. I am therefore delighted that the World Travel & Tourism Council",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(WTTC) has partnered with Microsoft, one of our members and a leading technology company, to",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "bring you the very latest insights into AI and what it could mean for our sector.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "What follows is the first report in a four-part initial series on artificial intelligence. We begin with an",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "introduction to AI: how it works, where it came from and the different types of AI available today.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Three further publications will explore how AI is currently being used in Travel & Tourism, and the fast-",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "moving world of AI governance, safety and regulation.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "By understanding these trends, we aim to help Travel & Tourism business leaders to prepare for the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "future and navigate the complexities of AI. But this report isn’t just technical facts and figures. We also",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "examine how AI can help tourism grow and do good over the years to come, opening up new and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "exciting possibilities for personalised, seamless and sustainable travel experiences.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Ultimately, AI is just an engine. The task now is to ensure that it fuels us towards a destination of our",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "choosing – a sector that is greener, safer, more prosperous and more free. After all, as Alan Turing said",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "back in 1949, we may be experiencing “only a foretaste of what is to come, and only the shadow of",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "what is going to be”. If we get it right with AI, that destination could be very bright indeed.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Julia Simpson",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "President & CEO",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "FOREWORD",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "“…It happened gradually, then suddenly…”",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "This famous quote from Ernest Hemingway’s 1926 novel, The Sun Also Rises could be used to describe some of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the world’s most profound technological changes. Small advancements accumulate and then all of a sudden,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the world is a different place.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "That could describe the world before and after the birth of the internet and could now be applied to Artificial",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Intelligence (AI), which has ‘gradually, then suddenly’ burst onto the scene after nearly a century of research. It",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "is almost impossible to browse the news or social media today, without seeing mention of Artificial Intelligence",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "and the magazines Time, Science, Cosmopolitan and The Economist (to name only a few) have all dedicated",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "cover stories to AI in 2023.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "But where has AI come from and why is it suddenly such big news?",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "This report aims to answer those questions, by providing a general introduction to Artificial Intelligence",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "technology, its business applications and its relevance to Travel & Tourism.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "AI has gained significant attention in recent years – and especially in 2023 – but AI is not new and can trace its",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "history back to the development of computers after the Second World War, with the Dartmouth Conference in",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1956 bringing together researchers from multiple fields to explore “thinking machines”. This is widely considered",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the start of AI as a distinct field of study and where the term “Artificial Intelligence” was used for the first time",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "by the visionaries at that conference.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "But it was not until the turn of the century that AI really came to the public’s attention, when the IBM Deep Blue",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "supercomputer beat chess grandmaster Gary Kasparov in 1997, with artificial intelligence algorithms developed",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "by IBM engineers. A few years later, in 2011, the IBM Watson computer won the US gameshow Jeopardy, after",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Cosmopolitan",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "www.cosmopolitan.com",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "https://time.com",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Economist",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "www.economist.com",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Science",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "www.science.org",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "being trained on a huge data set. These events showed the world for the very first time that computers powered",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "with large amounts of data and artificial intelligence software – albeit very powerful computers out of reach of",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "the general public - were capable of outperforming humans at very complex tasks.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Over the past decade several companies have taken this a step further and developed AI systems that have",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "achieved incredible results and performed tasks not possible by humans, due to the huge scale and complexity",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "of the challenge. AlphaFold from Google Deepmind is one example. The programme uses AI to predict the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3D structure of nearly every protein in the human body. This improves our understanding of diseases like",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Alzheimer’s and can massively accelerate research into medicines, vaccines and drugs. Healthcare is therefore",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "one of the most important and useful applications of AI.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "In 2018 a painting called “Edmond de Belamy, from La Famille de Belamy” was sold at Christie’s auction house",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "in New York for a staggering $432,500 (USD). It was generated with artificial intelligence after being trained on",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "many images of portraits from the 18 th and 19 th centuries and was the first piece of AI art sold at auction. The sale",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "sparked a significant debate about the future role of humans in creative professions, such as art and",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "digital media.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "AI Painting (2018)                                         AI Painting (2023)                                               AI Photo (2023)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Edmond de Belamy                                 Girl with Glowing Earrings                         Pseudomnesia : The Electrician",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "But this was only the start of a ‘boom’ in AI generated creative content. In 2023, a museum in The Hague",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(Netherlands) loaned the world famous, Girl with Pearl Earring (c. 1665) by Johannes Vermeer to an international",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "exhibition and temporarily replaced it in their gallery with an AI inspired version entitled Girl with Glowing",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Earrings , with many visitors to the gallery believing it was a real painting. In April 2023 the German artist Boris",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Eldagsen won the 2023 Sony World Photography Award with an image entitled Pseudomnesia: The Electrician ,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "before refusing the prize after revealing it was created by AI. (Pseudomnesia is Latin for fake memory!)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "These images show how far AI creative technology has advanced in only a few short years, from an ability to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "generate low quality AI portraits in 2018, to high quality AI paintings and photorealistic AI images today. Both",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "the Girl with Pearl Earring and Pseudomnesia images were created with AI software that is now available to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "everyone online and is partly why AI has taken off with the public in 2023, enabling any of us to become",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "potential artists.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "But paintings and photography are not the only form of art that has been shaped by AI. In 2023 the Grammys",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "announced that music created with AI would be eligible for awards and Paul McCartney announced he had used",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "AI to extract John Lennon’s voice from an old demo tape. In late 2023, this track was released as the final Beatles",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Song Now and Then 1 which drew considerable public attention to AI across all generations. Canadian singer",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Grimes has also invited anyone to create new songs with an AI copy of her voice, offering to split the royalties",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "equally on any AI track that is commercially successful.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Going a step further, an area of AI that is still in development is AI generated video. Imagine being able to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "produce a corporate marketing video easily and in only a few moments on your office laptop, or even turning",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "your favourite book into a movie using AI. Whilst AI generated video does not currently exist at this advanced",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "level yet, it is clear that AI is rapidly moving forward and has huge potential for both businesses and society.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "But there are also risks and concerns about the widescale adoption of AI, which are covered later in this report.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "The use of AI has led to some highly publicised events, such as a strike by Hollywood actors and writers in 2023,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "partly due to concerns about AI’s impact on the movie industry. Their concerns include the ability of AI to write",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "scripts and the potential to create an AI digital replica of an actor (or extra), which could be included in films,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "without the physical actor present and potentially long after they have died. The full impact of AI on jobs of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the future is yet to be determined, but it is possible that labour strikes will be experienced in other industries",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "as AI rolls out further into society and other areas of work.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "There is also a concern that AI could be used for disinformation (the deliberate sharing of false information),",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "especially to interfere with political elections. High quality, photorealistic – but fake – images have already gone",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "viral on the internet, such as an AI generated image of the Pope wearing a puffer jacket and an image purporting",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "to show the arrest of former US President Donald Trump. Both images were generated by AI and both are fake,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "but they are photorealistic, very convincing, generated on a home computer in only a few minutes and were",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "shared very widely across the internet and social media. It is therefore clear that the wide scale implementation",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "of AI across society needs ‘guardrails’ for its appropriate use, which could range from formal regulations to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "codes of conduct and best practice guidance. These options are discussed further in an accompanying WTTC",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "report on ‘ AI Risks & Governance’ .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Viral AI-generated (fake) images of the Pope and former US President Donald Trump",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "But not all celebrities are against AI and digital replicas – often known as ‘deepfakes’. For example World Cup",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "winning Argentinian footballer Lionel Messi has allowed a deepfake version of himself to advertise snacks, as",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "part of his sponsorship deal with PepsiCo. At the website www.messimessages.com anyone can generate and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "download to their phone a short personalised deepfake video message from Messi who invites your friends by",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "name, to bring food and watch the big game with him – and it can even get Messi to provide the message in his",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "voice in English, Spanish, Portuguese or Turkish!",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Argentinian footballer Lionel Messi : Deepfake Messi Messages",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "AI has therefore been regularly hitting the news headlines and as with all new trends, a few high profile cases",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "can propel a technology that is initially only used by a few early adopters, into global mass adoption. For AI this",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "happened with the international release of a sophisticated AI powered chatbot, named ChatGPT , in November",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2022 from a company called OpenAI. This caught the public’s attention, registering over 100 million users in only",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2 months and making it (at the time) the fastest growing consumer product of all time. This tipped AI into the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "public mainstream in 2023 and sparked the current worldwide interest in AI.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "While ChatGPT was the first AI chatbot to reach mass consumption, others are now available including Google",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Bard , IBM Watsonx.ai and Microsoft Copilot , with others produced around the world, such the Ernie AI",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "chatbot from Baidu in China.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "These sophisticated AI chatbots are not the only way to use AI, but they have exposed the power of AI to the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "general public, which everyone can now access on their desktop computers and smartphones (and through",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "digital connections to the ‘cloud’), unlike the 1990’s when the use of AI was limited to a very small number",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "of owners of supercomputers (such as IBM Deep Blue). The future of AI is exciting and evolving very fast. It",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "is impossible to accurately predict how AI will shape our lives over the next 5 to 50 years, but the following",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "section explains why now is a crucial moment for the future of AI and society.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "One of the most important aspects of AI is that it is a multi-use technology . Like electricity it can be applied",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "in lots of different ways, to lots of different scenarios.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "There is no single, universally accepted definition for Artificial Intelligence, but the Oxford English Dictionary",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "defines AI as “ the capacity of computers, or other machines, to exhibit intelligent behaviour”. This means AI",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "systems appear to think, learn and act like humans and in some cases exceed the capabilities of humans. AI",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "systems can analyse vast amounts of data, solve complex problems, make decisions and perform creative tasks.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Some AI technologies have been around for more than 50 years, but advances in computing power, the",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "availability of enormous quantities of data and new developments in software algorithms have led to major",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "AI breakthroughs in recent years. It is these three components of advanced algorithms , data and computing",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "power , that explain how machines can exhibit intelligent behaviour and why AI has suddenly exploded into our",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "everyday lives.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Algorithms tell computers what to do. Data tells computers what to learn.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Computing power gives machines the power to learn and make decisions",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "‘Traditional programming’ involves encoding human knowledge and experience into a set of precise rules that a",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "computer can follow, step-by-step, which make the computer appear to respond intelligently.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "These rules, called algorithms, tell computers how to perform tasks and in traditional programming are often",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "expressed in an ‘IF-THEN-ELSE’ format, which resembles a decision tree. For example to create a ‘digital doctor’,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "an algorithm might look like:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "IF the patient has a fever",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "THEN prescribe Drug X",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "ELSE send the patient home",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "The intelligence in traditional computer systems comes directly from human knowledge and expertise being",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "recorded into a format that a computer can process. Humans can read this ‘computer code’ and understand",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "how these digital systems make specific decisions and can therefore identify mistakes and improve the system.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "For example, in the ‘digital doctor’ scenario, new clauses could be added to deal with special cases, or to reflect",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "new medical knowledge. For example:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "IF the patient has a fever AND is allergic to Drug X",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "THEN prescribe Drug Y",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "ELSE prescribe Drug X",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "This example now starts to illustrate a key limitation of traditionally programmed systems. To develop a useful",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "and reliable ‘digital doctor’, a huge number of rules and exceptions would be required that the system would",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "very quickly become very large and very complicated.  Thousands of IF-THEN-ELSE rules would still be unlikely",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "to capture all of a real doctor’s expertise and experience gained over time. Therefore traditional programming",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "of ‘intelligent systems’ is best suited to constrained environments which do not change much over time and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "where the rules can be strictly defined . A good example of this could be an intelligent ‘tax calculator’ which",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "when presented with an individual’s financial income and other relevant circumstances could efficiently review",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "a series of ‘IF-THEN-ELSE’ rules to calculate their tax liability.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Traditional Programming                                                       Artificial Intelligence (AI)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Unlike traditional programming, AI systems are not explicitly coded in a series of precise steps, but instead",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "‘learn’ how to solve a problem by examining training data . In the example above, a traditional programme ( in",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "red on the left ) goes through a series of defined steps and pre-programmed decision points at A, B and C to",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "reach an outcome D ( in green ), whereas in the AI example ( in blue on the right ) the system calculates the best",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "route to the outcome (the snake to point 2) based on the data it has been trained on (at point 1), not on explicitly",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "defined and pre-programmed decision points. AI systems can also continuously ‘learn from experience’ and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "therefore the route taken to the outcome might be different each time the AI system is run (like a car driver",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "taking different routes through a city based on experience of traffic conditions at different times of day).",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Returning to a ‘digital doctor’ example, an ‘AI digital doctor’ could be trained on thousands (or millions!) of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "medical scans from sick and well patients to learn how to detect tumours, without following pre-defined rules",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "which are otherwise very difficult to codify and write. Many human doctors may say that experience plays a",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "significant role in clinical diagnosis, but an AI system can be trained on far more x-ray images than a doctor could",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "ever experience, leading to AI systems having remarkable capabilities in areas such as breast cancer detection.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "For example a Swedish AI study in 2023 found that AI-supported breast cancer screening (the analysis of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "mammogram images) was as good as two radiologists working together 2 . It also reduced their workload by",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "50% and led to 20% more cancers being detected early for treatment 3 . This illustrates some of the incredible",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "capabilities of AI and its benefit to society.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "But this also leads to an important concept in AI called ‘ Explainable AI’ . It is possible to verify the output of an",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "AI system as correct (for example did a patient really have cancer or not), but it may not be possible to know",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "exactly how the AI system got to a decision or outcome, as the AI has calculated the ‘interim steps’ (e.g. the blue",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "snake in the diagram above) by itself, without human programming of the specific steps to be taken. AI systems",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "are therefore sometimes referred to as ‘black boxes’ with details of exactly how they work and operate  - in",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "some cases - not fully known, or understood. This can even include their developers, as they too can often",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "only verify the output and not the steps taken by the AI.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "‘Explainable AI’ is therefore an active and ongoing field in which researchers are trying to understand and",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "articulate how AI systems reach an output. This is crucial to improve trust in artificial intelligence systems (i.e.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "to understand the magic inside the black box and to turn a ‘black box’ into a ‘glass box’).",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "The ‘digital doctor’ example nicely illustrates why ‘explainable AI’ is so important (in this case for both the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "patient and the doctor) to understand why an AI system has made a decision and believes a patient has breast",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "cancer before sending them for intrusive cancer treatment.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "When considering how an AI system is constructed, there are two primary methods for how an AI system",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "‘learns’ to perform a task , which are machine learning and deep learning.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Machine Learning : Machine Learning (ML) systems can learn from huge amounts of data and",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "continuously improve their performance over time when provided with more and/or better quality",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "training data. With this ‘knowledge’ gained from training data, machine learning powered AI systems",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "can then make predictions (such as for weather forecasting), or recognise patterns in data (such as for",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "image and speech recognition).",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Deep Learning : Deep Learning (DL) is a more sophisticated subset of Machine Learning and uses",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "complex processes inspired by the human brain called Artificial Neural Networks (ANN). How neutral",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "networks function is beyond the scope of this ‘Introduction to AI’ report, but deep learning systems",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "can excel at very complex tasks such as generating new works of art and medical drug discovery.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Researchers Yann LeCun , Geoffrey Hinton and Yoshua Bengio are credited with laying the foundations for",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "how AI systems can ‘learn’. Their pioneering research on deep learning in the 1990’s and early 2000’s led to major",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "breakthroughs and their work is now used in a variety of AI powered applications, from self-driving cars to",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "medical diagnosis. In 2018 the three researchers – nicknamed the ‘ Godfathers of AI’ - were awarded the Turing",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Award , which is considered the highest honour in computer science (equivalent to a Nobel Prize) for their",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "fundamental contributions to artificial intelligence.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Media nicknamed “Godfathers of AI” 4",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "The Turing Award is named after Alan Turing who was a brilliant British mathematician. He decoded the German",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Enigma machines during the Second World War (which were considered impossible to crack) by building one of",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "the world’s first computers and was one of the main architects of modern computer science following the war.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "He is often considered one of the ‘founding fathers’ of modern computing.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "In 1950 Alan Turing published a groundbreaking paper called ‘Computing Machinery and Intelligence’ which",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "introduced the ‘ Turing Test ’ for artificial intelligence. This is still used today to test a machine’s ability to exhibit",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "intelligent behaviour and if it is indistinguishable from a human. At this time (early 2024) no computer has",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "decidedly passed the Turing Test, but there have been some very convincing contenders. Modern, sophisticated,",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "AI chatbots (such as Google Bard and Microsoft Copilot) can be very difficult to distinguish from a human.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "The Turing Test is also a useful way to measure the progress of AI research, and since 1950 has helped to raise",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "international awareness of the potential for machines to think and behave like humans.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Whether an AI system uses machine learning, or deep learning techniques to ‘learn’ , there are different ways",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "that AI algorithms can be ‘ trained’ , but the most common approaches are:",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Comparing AI-generated outcomes or predictions to the correct answer : this is known as ‘ Supervised",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Learning ’ in which Al models are trained on data that has been correctly labelled (for example an AI",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "animal recognition system could be trained on images of animals correctly labelled as cats or dogs).",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Finding patterns in data : this is known as ‘ Unsupervised Learning ’ in which AI models are trained on",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "data that has not been labelled. In this case the AI system learns by finding patterns in the data (for",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "example edges, shapes, features, or colours in images of animals that are common to cats or dogs).",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Trial & Error : this is known as ‘ Reinforcement Learning’ in which AI models ‘learn by doing’. Each",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "outcome of the AI training is either mathematically rewarded or punished , in a ‘trial and error’",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "feedback loop (for example an AI animal recognition system that identified a certain breed of dog as",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "a cat would be ‘punished’, but ‘rewarded’ it if correctly identified it as a dog, even though it had not",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "seen that breed before)",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "At the core of every AI system is a set of algorithms (often using machine, or deep learning) and AI training",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "techniques (such as supervised, unsupervised or reinforcement learning) which determine how the system",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "processes information, learns patterns and makes decisions. As new algorithms are developed artificial",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "intelligence is becoming increasingly capable. But AI requires two other important components to be successful",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "– data and computing power.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "“ Data is the new oil ” is a phrase often associated with the digital age. Data is the fuel behind modern computing",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "and AI algorithms, allowing them to learn, find relationships in data and make informed predictions and decisions.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "In today’s world, huge volumes of data are created as we go about our everyday lives. From text messages, emails,",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "documents and social media posts, to photographs and videos on our smart phones. Humanity is generating",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "massive amounts of information every day and even more data is created by millions of sensors around the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "world and in our homes, cars, cities, public transport infrastructure and factories.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "An often quoted statistic from a 2013 study 5 is that 90% of the worlds data has been generated in the last",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2 years . That rate is likely to be even quicker today. A 2023 paper by the European Parliament on ‘ Artificial",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Intelligence Threats & Opportunities ’ 6 estimates that by 2025 the volume of data produced in the world each",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "year could be 175 zettabytes (up from less than 1 zettabyte a year generated in 2010, which is a 175 x increase in",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "the volume of data in just 15 years).  To put that in context, a top-of-the-range laptop in 2024 may come with",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "a 1 terabyte hard drive, which is a billion times smaller than a zettabyte. Therefore the volume of global data",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "produced in a single year in 2025, may be equivalent to 175 billion laptop computers.…or 21 laptops for every",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "person on earth!",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Bytes",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1 Kilobyte (KB)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1,000",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1 Megabyte (MB)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1,000,000",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1 Gigabyte (GB)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1,000,000,000",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1 Terabyte (TB)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1,000,000,000,000",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "10 12",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1 Petabyte (PB)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1,000,000,000,000,000",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "10 15",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1 Exabyte (EB)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1,000,000,000,000,000,000",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "10 18",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1 Zettabyte (ZB)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1,000,000,000,000,000,000,000",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "10 21",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "The volume of digital data in the world is rising so fast, and getting so large, that in 2022 scientists",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "formally agreed two new units of measurement for the first time in 31 years. These are the Ronnabyte",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "(RB) and the Quettabyte (QB) . A Ronnabyte is a billion, billion, billion bytes (!) and a Quettabyte is a",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "thousand Ronnabytes…or 1 followed by 30 zeros! Scientists believe this will be sufficient for at least",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "the next 25 years, but the relentless pace of digital innovation means we may all be using Quettabytes",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "quicker than anyone expected!",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "1 Ronnabyte (RB)",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "1,000,000,000,000,000,000,000,000,000",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "10 27",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "1 Quettabyte (QB)",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "1,000,000,000,000,000,000,000,000,000,000",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "10 30",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "This data explosion is largely driven by three factors:",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Increasing numbers of smartphones and internet devices : the number of devices connected to the",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "internet grows every year. There are several estimates for the total number of networked devices in",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "the world, but all agree that it is many billions of devices. The CISCO Annual Internet Report 2023",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "population of 8 billion people (in 2023).",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "2. Growth of social media : social media platforms generate many terabytes of text, video and audio data",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "every day (1 terabyte = approximately 1500 CD’s) with billions of messages and posts made every minute.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "In 2020, during the height of the COVID-19 pandemic, the Head of WhatsApp (Will Catchcart) issued a",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "tweet stating that approximately 100 billion messages were being exchanged every day on WhatsApp",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "alone and it is estimated that videos shared on platforms such as TikTok and YouTube account for over",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "half of all internet traffic. Social data is rising at an incredible pace, but is also very useful for AI systems",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "to understand human behaviour.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "3. New data collection and storage technologies : new technologies, such as sensors placed throughout",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "our cities, energy grids and transport infrastructure, are generating huge amounts of data on human",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "usage patterns. Similarly the ‘ Internet of Things (IoT) ’, which are the networked everyday items (such",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "as fitness trackers and Smart TV’s) are growing in popularity and producing new streams of data. The",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "CISCO Annual Internet Report 2023 estimates that of the 29.3 billion connected devices, 14.7 billion are",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "IoT devices. Nearly 50% of these are connected home appliances (such as home security systems) and",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "30% are connected car applications (such as networked vehicle diagnostics tools, emergency calling",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "systems and in car entertainment platforms).",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "This volume of data is also leading to a significant rise in cloud computing and data storage centres , with the",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "U.S. hosting 10x more data centres than any other country in the world (in 2023) 8 .",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "These extremely large and very complex datasets are often called ‘ Big Data ’ and are characterised by their",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "volume , velocity , variety and veracity , commonly referred to as the 4 V’s .",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "This exponential rise in the quantity, availability, quality and diversity of data around the globe is powering",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "the current wave of AI technology. Data provides the information required for AI models to learn and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "improve , and is the fuel for AI systems to undertake very complex tasks at scale.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "In particular ‘big data’ supports the rise of AI in the following ways :",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Training Data : AI systems require substantial amounts of training data to learn patterns. This makes",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "their predictions and decisions more accurate, which is especially important in areas such as self-driving",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "cars where massive datasets of images and videos, from many different road scenarios, are captured and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "used to train AI algorithms, which can then perceive and navigate complex environments by themselves.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "2. Feature Extraction : large and diverse datasets help AI algorithms to accurately identify and extract",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "features from within data. This enables more accurate insights from AI systems, such as AI powered",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "image recognition tools.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "3. Model Performance : big data enhances the performance and robustness of AI models, allowing them",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "to handle a wide range of situations and inputs. This is especially important in sectors such as healthcare,",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "where AI systems can analyse extensive patient and medical data to assist in diagnosis, treatment and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "drug discovery.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "4. Predictive Analytics : large datasets and AI can be used by businesses to forecast trends, customer",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "behaviour and market shifts. This provides companies with actionable insights and helps with corporate",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "decision making.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "5. Personalisation : when AI systems can access large volumes of data on human behaviours, preferences,",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "and interactions they can provide tailored suggestions and experiences for users. This is useful for",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "e-commerce and social media platforms to suggest products, content, or services tailored to an",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "individual user.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "6. Natural Language Processing (NLP) : NLP models, such as AI powered chatbots, virtual assistants and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "language translation systems, benefit from diverse and extensive language data, such as books, articles",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "and social media posts. This allows an AI NLP model to understand and generate realistic human-like",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "language very effectively.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "7. Real-Time Decision Making : as the ‘velocity’ of big data accelerates, in areas such as banking transactions,",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "AI systems can process and analyse this data in (near) real time to provide instant recommendations, or",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "decisions, for functions such as fraud detection.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Companies have been working towards becoming more data-driven for many years, with some now using cloud",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "computing to store and manage their vast quantities of data on remote cloud-based servers (rather than on",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "premises computers), in either ‘data lakes’ or ‘data warehouses’ (or both).",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "A data warehouse is a repository that stores structured data , in a highly organised and optimised way. They",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "can be thought of as very large, neatly organised, filing cabinets Data warehouses could store information such",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "as booking data, hotel occupancy rates, flight schedules, pricing information, financial transactions, web traffic",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "statistics or marketing campaign performance data. This structured way of storage can be easily searched and",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "is very good at quickly finding specific pieces of information such as “how many people booked trips to the",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Caribbean last year?” or “what was the average cost of a hotel room in Paris this summer?”.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Alternatively a data lake is a repository that can store all types of unstructured data , such as social media",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "posts, images, videos, customer feedback surveys, or online reviews. A data lake can be thought of as a big,",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "open room, into which all sorts of information can be thrown, in an unstructured and disorganised manner. This",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "form of storage is good for collecting many different types of data and for keeping all the relevant information",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "(within privacy limits), even when you’re not sure how, or when, it could be used in the future.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "When the best aspects of a data warehouse and data lake are merged into one data management solution it is",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "called a data lakehouse .",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "The application of AI to each system has its advantages. For example:",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "AI applied with a data warehouse could:",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Optimise pricing strategies, based on historical booking data",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Predict customer preferences and recommend personalised travel packages",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "AI applied with a data lake could:",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Analyse social media sentiment to gauge public opinion on different travel destinations",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Use image recognition with social media photos to identify the most popular tourist attractions",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Analyse customer feedback to identify areas of concern and improve customer services",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "The combination of AI, data warehouses, data lakes and cloud infrastructure, provides a scalable and flexible",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "environment for managing and gleaning insights from different forms of big data. Used together they can help",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "a travel company provide amazing and personalised travel experiences!",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Training AI systems typically requires a lot of data. This data can be very large and very complex and needs to",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "be processed very quickly, which requires a lot of computing power .",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "For example, sophisticated AI chatbots (such as Google Bard, Microsoft Copilot) were trained on datasets that",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "included hundreds of billions of words (for comparison the Bible contains fewer than one million words). To",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "download this volume data on a typical home internet connection and then process it for AI training could take",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "hundreds of years on a standard computer. This task therefore requires a special type of computing power.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Let’s imagine you wanted to learn everything on the internet. In 2022 there were approximately 5.75 billion",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "webpages online. If a person spent one minute studying every page, it would take a human approximately 11,000",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "years to ‘learn the internet’ (without any breaks!). The most advanced supercomputers in 2023, which contain",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "advanced computing power, are now able to process this vast amount of data and use AI techniques (such as",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "deep learning algorithms) to ‘learn’ all this information in only a few months! This remarkable advancement in",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "modern computing power is enabling the current wave of AI innovations and powering many applications",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "of AI that were simply not possible only a few years ago .",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "The history of increasing computing power can be traced back to the 1960’s, when Gordon Moore (a co-founder",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "of Intel) observed that the number of transistors on an integrated circuit was doubling around every two years.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "This became known as ‘ Moore’s Law ’. This doubling led to exponential growth in the power of computer chips,",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "which has enabled computers small enough, powerful enough and cheap enough to now sit on all of our desks",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "and power the smartphones in our pockets. But to achieve AI breakthroughs required even more computing",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "power.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "In the 1990’s a company called NVIDIA popularised the term ‘Graphics Processing Unit’ (GPU), which was",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "typically an electronic circuit board that plugged into a computer to accelerate its power. This became a critical",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "piece of technology for computer gamers (and later Hollywood), as it enabled very fast and realistic rendering",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "of graphics and special effects. GPU chips led computer games to advance from pixilated images to realistic",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "graphics in just a few years, to the point where they are now almost indistinguishable from real life. The images",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "below show just how much computer graphics, powered by GPU chips, have improved in only the last 3 years.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "The rapid advance of GPU chips partly explains why now is a global moment for AI. As GPU technology evolved",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "for computer games, a key innovation was their ability to process tasks in parallel (rather than sequentially",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "as in normal computers) and it turns out the accelerated parallel processing required to create lifelike",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "graphics in computer games and movies is ideal for powering AI applications and especially deep learning",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "systems, such as sophisticated AI chatbots . Therefore GPU computer chips, originally from the gaming industry,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "eFootball Computer Game Graphics of Argentinian Lionel Messi                                    Real Lionel Messi",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "(2021 to 2023) 41",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "are now a core and essential part of AI. This need has, in turn, propelled NVIDIA to become one of the world’s",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "most in demand and valuable companies, reaching a market valuation in excess of $1 trillion in 2023, joining only",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "5 other companies in the world to have reached that level (who are Alphabet [the parent company of Google],",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Amazon, Apple, Microsoft and Saudi Aramco )",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Demand for these cutting-edge GPU chips is growing very rapidly around the world, but only a few companies",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "and countries have the specialist knowledge and ability to produce them . Computer chips are therefore",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "a source of geo-political tension, especially between the U.S., China and the EU, who each have strategic",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "ambitions for AI and have therefore announced plans, or legislation, to strengthen their local chip design and",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "manufacturing capabilities.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "China, for example, has published a ‘ Made in China 2025 ’ roadmap 9 which aims to improve the country’s",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "position as a manufacturing superpower by 2025 (including in the production of semiconductor chips). At",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "the time of publication of this report, negotiations are underway to raise 300 billion Yuan (RMB) 10 for an",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "investment fund that can be put towards chip manufacturing in China. In Europe the ‘ EU Chips Act ’ 11 aims to",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "secure the region’s supply of semiconductors by investing €42 billion (EUR) , alongside a three pillar strategy to",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "improve EU semiconductor R&D, increase the EU’s production capacity and to set up a new EU monitoring and",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "crisis response mechanism for any future chip shortages. In the U.S. the ‘ US Chips & Science Act ’ 12 includes",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "$52 billion (USD) for semiconductor R&D, manufacturing and workforce development. The Act also includes a",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "25% tax credit to encourage companies to build chip manufacturing plants in the U.S. (estimated to be worth",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "$24 billion [USD]) and when combined with other US regulations, places export restrictions on US designed",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "semiconductor technology. Such large investments and semiconductor strategies by the world’s great",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "powers illustrate the strategic importance of this chip technology .",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "At the 2023 World Economic Forum in Davos, Intel CEO",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Pat Gelsinger said “ there is no innovation without",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "semiconductors ”. As the global economy becomes",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "increasingly dependent on digital technology, he",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "argued that “ the world needs more geographically",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "balanced and resilient chip supply chains ” 13 .",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "This is because many computer chip companies",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "(including NVIDIA) are ‘fabless’ organisations , meaning",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "they design and sell chips, but do not manufacture",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "them. Their manufacturing is outsourced to a",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "specialised ‘semiconductor foundry’, such as TSMC",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "(Taiwan Semiconductor Manufacturing Company)",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "which is by far the largest chip manufacturer in the",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "world with approximately 55% market share. The",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "second largest is Samsung in South Korea, with",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "approximately 15% market share in 2023.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "This means around 70% of the world’s computer chips are manufactured by just two organisations . These",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "power not only AI systems, but everything that requires a semiconductor chip, from cars to household",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "appliances. As the world emerged from the COVID-19 pandemic, this dependence was brought into sharp focus",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "with very public halts to car production lines due to a global chip shortage. Quite simply without TSMC the",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "global digital economy would grind to a halt. Raising awareness of this risk has led to further geo-political",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "tensions surrounding the future of Taiwan, where TSMC is based.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "The very limited number of GPU chip designers and manufacturers around the world has therefore led several",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "major technology companies to develop their own chips to power AI applications, including Amazon, Apple,",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Google, IBM, Microsoft and Tesla. Chip designers and manufacturers including Intel, AMD and Qualcomm are",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "also building new production facilities. TSMC, for example, is building a plant in Arizona (its first production",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "facility outside of Taiwan) and Intel is building a new plant in Ohio, with tax credits provided by the US Chips &",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Science Act.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Since 2016, Google has also developed its own chip that is specifically designed for AI, called a TPU (Tensor",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Processing Unit) . Although GPU chips are at the core of most AI computing power today and can perform",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "tasks in parallel, a TPU chip takes this a step further and can perform ‘matrix calculations’ which significantly",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "accelerates machine learning tasks . These differences could be thought of like a traditional newspaper printing",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "press – a normal laptop computer could print one letter at a time, a GPU chip could print a whole line of text",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "at a time, and a TPU chip could print an entire page at a time.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Example chip producers (not an exhaustive list)",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "CPU vs GPU vs TPU",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "The ‘matrix’ capability of TPU chips  makes them ideal for training and deploying very large AI models. They",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "are already installed in many Google data centres, so when you use Google Translate today (which involves AI",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "processing in the background), TPU’s are probably powering your query 14 15 . The latest generation of Google",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "TPU’s (TPU v5) are capable of nearly 400 trillion calculations per second!",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "But despite this incredible ability, the real magic happens when thousands of chips are interconnected to create",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "a single supercomputer that is capable of handling very demanding AI workloads. In 2020 Microsoft built the",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "supercomputer used to train ChatGPT 16 . It used 10,000 GPU chips and cost millions of dollars. At the time it was",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "not only the largest supercomputer built in the public cloud , but also the 5 th largest supercomputer",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "ever built 17 .",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Semiconductor chip technology and cloud infrastructure have only recently made such large scale, powerful",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "supercomputers possible. But most members of the general public and users of AI chatbots (or other",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "sophisticated AI systems) probably have no idea about the massive scale of computing power required behind",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "the scenes to train and drive these advanced AI capabilities.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "These very large and very expensive supercomputers can take up entire warehouses of space and cost many",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "millions of dollars to build and run. This has caused concern with some university academics and national",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "governments who may not be able to afford these very large investments, or have the technological capability",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "to build and operate supercomputers themselves. There is therefore a legitimate concern that the computing",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "power required for AI may mean that AI cannot be studied by everyone, or benefit everyone in society. This",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "disparity may lead to a greater ‘ digital divide ’ in the world (discussed later in this report).",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "It is important that the benefits of AI are able to reach everybody on the globe and some governments have",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "taken a strategic decision to invest in national computer infrastructure capable of training and running large",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "scale AI applications. The UK, for example, committed £900 million (GBP) in March 2023 to build an exascale UK",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "supercomputer 18 called ‘ Isambard AI ’ 19 20 (named after the famous British engineer Isambard Kingdom Brunel)",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "that will enable ‘ researchers in the UK to better understand climate change, power the discovery of new drugs",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "and maximise the potential of AI’ .",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "An exascale supercomputer is a computer that can carry out 1 quintillion calculations a second – that is a billion,",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "billion, calculations per second (or 1,000,000,000,000,000,000 calculations every second! ), a metric known as",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "an ‘exaflop’.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "UK £900 million (GBP) investment in an ‘exascale’ computer for AI research",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "But Travel & Tourism companies wishing to develop their own AI applications do not need their own dedicated,",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "or purpose-built supercomputer, because several technology companies (including Google, Microsoft, IBM and",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "others) provide access to AI models and data management tools with their cloud technology which connects",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "to the providers supercomputers.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "For example, a Travel & Tourism company could take a sophisticated AI chatbot that has been ‘pre-trained’ on a",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "supercomputer (with huge amounts of data from the internet) and with a technology partner ‘ fine tune ’ it for",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "their specific business tasks. This uses far fewer computing resources and allows the Travel & Tourism business",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "to use their own data that is specific to their company, combined with the already pre-trained general data from",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "the internet. As this paper is an ‘Introduction to AI’, it does not include more details on ‘fine tuning’ AI models",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "for specific business uses, but additional AI guidance material on this topic may be developed by WTTC in",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "the future.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Cloud computing is the general term for anything that involves delivering computer resources over the internet.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Companies, or individual users, can now pay for and access large amounts of computing power on demand via",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "the cloud. But when referring to the total cloud computing system, which involves not only the processing",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "power (e.g. GPU’s or TPU’s), but also the memory, networking and storage requirements, the term ‘ compute ’",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "is used. Therefore the jigsaw puzzle image at the start of this chapter, with the three core elements of AI, is",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "more often referred to as Algorithms + Data + Compute (rather than computing power) to reflect the essential",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "elements of AI.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "As these three core components of AI get increasingly more capable , accessible and affordable to businesses",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "and the public, what AI can really achieve in the future is yet to be determined !",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "As noted at the start of this chapter, artificial intelligence is a multi-use technology , with many different",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "applications. There are therefore different ways that AI systems can be categorised, but they are normally",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "segmented into one of three categories - either by the way they learn , by their capabilities or by",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "their functionality .",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "The previous section of this report summarised the different ways that AI systems can be categorised based on",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "the way they learn .  This includes machine learning and deep learning , with different techniques for training",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "these AI systems including supervised learning , unsupervised learning and reinforcement learning .",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "The second useful way to group, or classify, an AI system is based on its capability , which means an AI system",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "delivers either artificial narrow intelligence (ANI) , artificial general intelligence (AGI) , or artificial super",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "intelligence (ASI) .",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "The third useful way to classify an AI system is based on its functionality . For many years this involved an AI",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "solution either being considered as an Expert System , or as Predictive AI , but now also includes a relatively new",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "field of artificial intelligence functionality called Generative AI .",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "An AI Expert System is a smart computer program that uses AI to simulate the expertise of humans in a specific",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "area, such as for travel planning, medical diagnosis or financial advice. Expert systems contain a knowledge base",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "of rules and facts about a specific domain, which are combined with AI (in a system called an ‘inference engine’)",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "to reason through problems and provide advice, or recommendations.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "For example a travel AI expert system could help travellers to plan and book their trips. This would start with",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "the collection of a large amount of data relating to travel, such as information on destinations, hotels, airlines,",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "restaurants, excursions and travel regulations, which would be fed into a knowledge base. Travellers could interact",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "with the AI expert system through a friendly user interface (such as a website, smartphone app, or chatbot) in",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "a natural, conversational way to communicate their travel dates, budget and interests, and the AI ‘brain’ could",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "provide personalised recommendations and itineraries.  To complete the process, AI expert systems can also be",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "integrated with booking platforms to enable travellers to make reservations directly through the system.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "AI expert systems therefore capture human knowledge and combine it with AI to provide expert level advice",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "and conclusions. The knowledge base represents the domain expertise, while the inference engine provides the",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "AI reasoning capabilities. Benefits of AI expert system include:",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Time & Cost Savings : AI expert systems can search through large amounts of data and generate travel",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "itineraries very quickly and efficiently.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Personalised Customer Service : AI expert systems can take account of a traveller’s individual preferences",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "and requirements to provide them with highly tailored recommendations.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Wide Expert Knowledge : AI expert systems can draw from the expertise of many stakeholders who",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "have fed into the ‘knowledge base’, which for Travel & Tourism could include travel agents, travel",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "bloggers, tour operators and other travel professionals.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Predictive AI is another way to classify an AI system’s functionality and refers to AI that uses current and",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "historical data to make predictions about future events, outcomes, or behaviours. They do this by analysing",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "large amounts of data to identify patterns, trends and relationships that can help to anticipate the future.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "A common form of predictive AI is weather forecasting, which analyses historical weather data and current",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "conditions to predict the likely future weather.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "An example of how predictive AI can used in travel is for flight delay predictions . An airline may use a predictive",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "AI system to analyse a variety of historical and real time data including weather conditions, aircraft maintenance",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "issues, airport congestion and other factors that could impact delays such as air traffic control data. The AI",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "system can identify patterns in this data and create models that estimate the likelihood and potential length of",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "future flight delays, under various conditions. With this information airlines can better schedule crews, gates,",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "and other resources to proactively minimise passenger inconvenience. Predictive AI therefore allows airlines to",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "get ahead of potential disruptions to their operations.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Predictive AI can also be combined with other forms of data analytics to create more comprehensive and",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "powerful approaches to solving complex problems and gaining valuable business insights. Examples of other",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "data analytical techniques that can be combined with predictive AI include:",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Descriptive Analytics : this summarises the past using historical data and helps to answer questions",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "such as WHAT, WHERE and WHEN something happened by using methods such as dashboards, reports",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "and other visual imagery to see and analyse patterns. For example this could involve analysing flight",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "delay reports and displaying key information on a dashboard.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Diagnostic Analytics : this aims to understand WHY something happened by investigating its root cause.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "For example by analysing weather data and aircraft maintenance logs it may be possible to diagnose",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "why flight delays occurred. These important insights from diagnostic analytics can also improve the",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "accuracy of predictive AI models. For example, by understanding the reasons for past flight delays, it",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "can help to better predict potential future delays.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Prescriptive Analytics : this suggests HOW to act in the future based on the data insights. By combining",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "predictive AI forecasts with prescriptive recommendations it enables better planning and responses to",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "potential future events. For example airlines could prepare and rapidly reallocate crews if significant",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "delays are predicted.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Generative AI (sometimes abbreviated to “Gen AI”) is a relatively new form of AI that burst onto the global",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "scene in late 2022 with the release of a sophisticated AI chatbot called ChatGPT .",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "ChatGPT took the world by storm with its ability to generate intelligent and amusing written content that",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "resembles human speech, combined with its capability to generate useful, high quality content very quickly,",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "such as emails, poems, business plans, holiday schedules and much more.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "As illustrated in the earlier chapters of this report, AI technology has been around for many years and routinely",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "used in applications such as weather forecasting, or email spam filters, but these are often hidden and unknown",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "to the users of systems. ChatGPT, along with other sophisticated AI chatbots released in 2023 such as Google",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Bard and Microsoft Copilot , could be credited with really exposing the power and potential of AI to corporate",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "businesses and the mass general public.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "AI chatbots are powered by generative AI, which is a type of AI technology that can produce new and creative",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "content such as text, imagery, video and audio, from a user ‘ prompt ’. It creates this new content based on the",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "prompt and what it has learned from very large quantities of training data (sometimes many millions of internet",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "pages) to produce a generative AI model .",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "An example of this is foundation models which can be defined as “ AI models trained on a broad data set",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "that can applied to a wide range of downstream tasks ” 21 .These enable anyone to automate projects and",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "generate amazing content on a standard computer. The diagram below illustrates just some of the possible",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "outputs (such as text, computer code, images and video) and tasks (such as producing marketing and advertising",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "material, website building, video editing and document summarisation) that generative AI foundation models",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "can achieve.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Generative AI Application Landscape",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Generative AI has its origins in a 2017 Google research paper entitled “ Attention Is All You Need ” 22 , which",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "introduced a new type of AI architecture for language understanding called ‘ Transformers ’. Many research",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "organisations, universities and companies have investigated this technique to develop innovative AI applications.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Since 2017, the number of scientific publications focussed on generative AI has grown fivefold and venture",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "capital (VC) investment in generative AI solutions reached $12 billion (USD) in the first six months of 2023 alone.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Number of Scientific Publications on Generative AI (by year)",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Generative AI’s ability to produce new, exciting and creative content is predicted to create considerable global",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "business and economic value, but also comes with potentially significant challenges and risks (discussed further",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "in the accompany WTTC report on ‘ AI Risks & Governance ’). As a result generative AI has taken centre stage in",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "many public, academic and political discussions. This can be illustrated by the huge rise in global news stories",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "and posts on X (formally Twitter) dedicated to generative AI worldwide, with international news stories on",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "generative AI increasing from just under 2000 in late 2022, to nearly 14,000 by June 2023. The number of posts",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "on X (tweets) rose from 7000 in October 2022, to 57,000 in March 2023 (an 8x increase) 23 . The global interest in",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "this new form of AI is phenomenal and is therefore an important technology for all Travel & Tourism businesses",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "to recognise.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Number of Global News Articles                                           Number of posts on X (formally Twitter)",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "A specific type of generative AI foundation model is a large language model (LLM) , which is a sophisticated AI",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "model designed to generate human like text responses to a user’s prompt. It is the underlying AI model driving",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "AI chatbots (such as Google Bard or Microsoft CoPilot ). The user ‘prompt’ is commonly a text input, but could",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "also be something else, such as an image or audio input for example.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "A prompt allows the user to provide instructions to an LLM (often an AI chatbot) in a natural conversational style,",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "which is understood by the AI in a process called natural language processing (NLP) . This natural, conversational",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "way of providing instructions to an AI system is the same way that instructions are provided to ‘home smart",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "speakers’ and is a new, exciting and innovative way for humans to interact with computers.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "A simple example of a text prompt and response from a LLM could be:",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Sophisticated AI chatbots, powered by LLM’s, are also able to remember the details and context of a conversation",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "and reply as part of a free flowing discussion. For example if the prompt “ how does this compare to a cheetah ”",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "is added after the above response, the AI system knows to compare it to Usain Bolt over 100m, without the",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "user specifically having to ask how a cheetah compares to the runner. This natural way of communicating and",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "remembering previous parts of a discussion is a how a human conversation would flow and is being replicated",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "by the generative AI system.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "To achieve such impressive abilities, LLM models are typically trained on enormous amounts of text data",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "(sometimes called a ‘ corpus ’, meaning a large collection of documents) to learn the patterns, grammar, and",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "semantics of one, or more, languages and use AI deep learning techniques to understand and generate coherent,",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "conversational and contextually appropriate responses in only a few seconds.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "LLM’s, such as those that power sophisticated AI chatbots, are remarkably versatile and accurate in comprehending",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "and generating text across a very wide range of topics and writing styles. Below are a few more examples of",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "complex prompts provided to an AI chatbot that demonstrate their ability to remember the previous parts of",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "a conversation, perform translation, summarise text, draw tables and populate them with content drawn from",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "multiple sources.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "What is the world record for the 100m sprint?",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "The world record for the 100m sprint is 9.58 seconds, set",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "by Usain Bolt of Jamaica on 16 August 2009 at the World",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Athletics Championships in Berlin, Germany.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "How does this compare to a cheetah?",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "A cheetah is significantly faster than a human. In a 100m race,",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "a cheetah would cross the finish line in about 5.95 seconds,",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "while Usain Bolt would take 9.58 seconds. Cheetahs have a",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "top speed of around 70 miles per hour, while Usain Bolts top",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "speed for the 100m sprint is approximately 23 miles per hour.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Explain what WTTC does in 1 sentence that is",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "suitable for a WhatsApp message",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "WTTC is a global organisation that works with governments",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "and businesses around the world to promote the travel and",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "tourism industry",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "1. La Junta Mundial de Viajes y Turismo (WTTC) es una",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "plataforma única para que los gobiernos interactúen con las",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "empresas para dar forma conjuntamente al futuro del Viaje",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "y Turismo y garantizar su competitividad, inclusividad y",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "sostenibilidad a largo plazo.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "2. WTTC は、 高レベルの政府イベントに参加し、 連邦、 州、",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "地方政府と積極的に多利益関係者対話に参加し、 セクター",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "全体の連携を達成します。",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "3. Til að upplýsa ákvarðanatöku á opinberum vettvangi",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "framleiðir WTTC trausta rannsóknir og innsæi",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "leiðtogaskýrslur, frá neyðarbúnaði til áfangastaðar 2030, auk",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "mælanleiðra bestu framkvæmda sem spanna frá öryggi, þróun",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "starfsfólks, sjálfbærni og áfangastaðastjórnun.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Translate the first sentence to Spanish, the",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "second sentence to Japanese and the third",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "sentence to Icelandic",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Draw a table of reports published by WTTC in",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "2022 and include a short description of",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "each report.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Report Title",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Economic Impact Research",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Digital Travel Portals This report provides guidance on how governments can implement a",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Codes to Resilience",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Destination 2030",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Nature Positive Travel",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "& Tourism",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Staff Shortages",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Best Practices for",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Short-Term Rentals",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "It is important to remember that the text output from the AI chatbot in the above examples is generated",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "entirely by AI and based on the vast amounts of information it has been trained on from the internet. It has not",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "simply copy-and-pasted these responses from the WTTC website, as these exact paragraphs, descriptions and",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "tables do not exist in this format on the WTTC website.",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "However in the last example, where the AI chatbot was asked to provide the months that the reports were",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "published, it has provided incorrect information. This is known as a ‘ hallucination ’ and is a feature of all AI",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "chatbots today. Sometimes they produce answers, information and statistics that look accurate and sound",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "convincing, but are in fact incorrect. This is due to the complex way that large language models produce their",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "output. Some common reasons for hallucinations are illustrated below.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Reasons for Generative AI Hallucinations",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "In the AI chatbot example above, the table is also incomplete as it has missed other reports published by",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "WTTC in 2022, including a report on ‘Critical Factors to Attract Hotel Investment’ (published in June 2022)",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "and a joint report with Harvard University on the ‘Circular Economy in Travel & Tourism’ (published in May",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "2022). Nevertheless, the AI has done a remarkable job of finding and correctly summarising the majority of",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "WTTC reports, in only a few seconds, from a single sentence text prompt asking for information on the reports",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "published by WTTC in 2022 (written in a natural conversational way).",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Add a column including the month they were published.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Month Published",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Economic Impact",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Research",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Digital Travel Portals",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Hallucinations are a well known feature of current generative AI systems and many researchers are working",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "on solutions, so that future versions of AI systems will have improved accuracy and better performance. All",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "users of generative AI systems today (including Travel & Tourism businesses) should therefore be aware of",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "their current limitations and are advised to verify any AI generated outputs that may be business, safety or",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "operationally critical.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Whilst AI chatbots may be many peoples first introduction to generative AI applications there is a very rapidly",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "growing market of AI applications and open source AI models. Open source tools are freely available to",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "download and use and in some cases they can be manipulated to your exact user needs and with your own data",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "in a process called ‘ fine tuning ’.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "The diagram below from Sequoia Capital (a U.S. venture capital firm) attempts to map the generative AI market",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "by use case 24 . It illustrates the many and varied generative AI applications available in September 2023, but this",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "still does not capture all available applications.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Generative AI Market Map v3 (by Sequoia Capital)",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "This ‘explosion’ of generative AI applications has caused",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "many world leaders to call for a proper debate on the",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "opportunities and challenges related to generative",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "AI and the regulatory needs and guidelines required",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "for its safe and responsible use. The UK government",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "therefore hosted the world’s first AI Safety Summit in",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "November 2023.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Many countries are currently leveraging their existing",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "legal and policy frameworks to manage the risks of",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "AI, whilst in Europe the EU is advancing a continent",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "wide ‘AI Act’ to responsibly seize the opportunities",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "presented by AI. Many other multinational groups",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "including several UN bodies, the G7 and private",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "sector companies are also developing responsible AI",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "guidelines. These are discussed further in the ‘AI Risks",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "& Governance’ report from WTTC.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "In September 2023, an OECD report prepared for the 2023 Japanese G7 Presidency identified seven common",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "challenges posed by generative AI that require international alignment and collaboration 23 . The report noted",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "that international policy frameworks for generative AI should be inclusive and feature input from a diverse",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "range of stakeholders, not just ‘AI experts’ and include the perspectives of governments from both developed",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "and developing countries, private companies, civil society and interested sectors of the economy. This includes",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "international Travel & Tourism.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "As noted earlier in this chapter, as AI systems access more high quality data and use greater computer power,",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "they become more accurate, creative and insightful. However it is also important to note that handling massive",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "amounts of data can present privacy, security and data governance challenges for AI developers and users and",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "that there is a significant data and ‘ digital divide ’ in the world.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "The International Telecommunications Union (ITU) – the UN agency responsible for advancing digital technology",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "– estimates that 34% of the world has never been connected to the internet (in 2022), representing 2.6",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "billion people 25 . Therefore a third of the world’s population does not have access to AI.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "The ITU considers that ‘ universal and meaningful digital connectivity ’ 26 (defined as a ‘ the possibility for",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "everyone to enjoy a safe, productive and affordable online experience ’) should be a global priority. The ITU",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "states that the AI revolution should benefit everyone in the world and should not worsen the international",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "digital divide.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "ITU data shows that the global youth are the driving force behind connectivity, with 75% of all 15-24 year olds",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "in the world now online , compared to 65% amongst the rest of the population. Sadly the affordability of entry",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "level fixed and mobile internet services is leaving populations in the least developed countries (LDCs) behind.",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "ITU data from 2022 finds that in a typical low income economy, the cheapest mobile broadband costs 9% of a",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "person’s income (over 6x the global average) and in those least developed countries 64% of the population is",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "not connected to the internet (almost double the global average of 34% who are not online).",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "To begin to address this issue, the UK and Canada announced an ‘ AI for Development’ vision at the 2023 UN",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "General Assembly (UNGA) 27 , which aims to boost local AI skills, innovation and computing power in the",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "world’s poorest nations , with an initial focus on Africa. Then UK Foreign Secretary, James Cleverly stated at the",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "UN launch that “ the opportunity of AI is immense…and the UK alongside our allies and partners is making sure",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "that the fulfilment of this enormous potential is shared globally ”",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "In addressing digital inequality, the science fiction writer William Gibson (who first used the term ‘cyberspace’",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "in his 1984 novel Neuromancer ) is reported to have said over 30 years ago that “ the future is already here, it’s",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "just not evenly distributed yet” . This could be used to describe the global digital divide and AI situation today.",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "The Worlds Offline Population : ITU Global Connectivity Report 2022",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "(Size of tile represents the country’s share of the world’s offline population)",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "At the annual UN mid-year policy discussions on urgent global issue in July 2023, the ITU Secretary General ,",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Doreen Bodgan-Martin said that “ in a world where 95% of the global population is within range of a mobile",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "broadband network, mere connectivity is not sufficient ” adding “ too many people who could go online decide",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "against it because they do not have the digital skills ” 28 . IT illiteracy and the digital skills gap are therefore",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "barriers to a successful AI future for everyone .",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "UN ITU Secretary General, Doreen Bodgan-Martin",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "This digital skills gap affects both developed and developing countries. In 2023, international HR and recruitment",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "company Randstad surveyed 7,000 employees in companies of all sizes, across 34 countries and found that only",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "13% of workers had been offered any form of AI training in the last 12 months 29 . This is despite a huge global",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "surge in AI, with Randstad also observing a 20x increase in the number of new job postings across all industries",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "requiring AI skills in 2023 30 . Their research also found that AI training was the third most requested form of",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "development requested by workers , after leadership and wellbeing training.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "A similar result was found in the GitLab 2023 global survey of software development companies 31 . It’s showed",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "that even when AI training was provided within organisations, there was a significant difference in the quality",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "and availability of training across seniority levels . Those lower in organisations were most concerned about",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "job losses from AI, yet were not provided the skills necessary to work with and alongside AI technology, with",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "the report noting that “ although this suggests that organisations are making a top-down attempt to make AI",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "resources available to employees, those resources may not be adequate at lower levels ”",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Commenting on the report, the training organisation Skillsoft said “ investing in reskilling and upskilling is vital",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "to ensure everyone can benefit from AI ”. To ensure this, the firm argued “ organisations must take a stronger",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "stance on training employees to use AI strategically and responsibly within their existing roles ”. A 2023 global",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "survey of corporate executives by the IBM Institute of Business Values also found that most business leaders",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "estimate that implementing AI and automation within their company will require at least 40% of their",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "workforce to re-skill over the next three years 32 .",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "But the thought of digitally retraining half, or more, of an entire workforce can seem like a daunting and",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "expensive task. That is why organisations, such as Microsoft, Google and IBM offer basic AI training for free via",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "their YouTube channel and website (such as online at Microsoft Learn 33 , Grow with Google 34 or IBM Training",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "35 ), often in partnership with organisations such as LinkedIn Learning, Coursera and edX. In September 2023, IBM",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "also announced a plan to help close the AI skills gap by training 2 million people in AI by the end of 2026,",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "with a focus on underrepresented communities 36 . To achieve this goal IBM is collaborating with universities",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "and training providers around the world to deliver adult education and launching new generative AI coursework",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "on topics such as ‘Prompt Writing’ and ‘Improving Customer Service with AI’ through IBM SkillsBuild 37 .",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Many online creators are also making videos on how to use AI and there have been more than 1.7 billion views",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "of videos related to AI tools on YouTube in 2023 alone 38 . More sophisticated, paid for training courses are also",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "available from several universities (both in person and online) and many training providers who may also offer",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "consulting services to tailor training to your specific organisational needs.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "A simple, useful tool, for training an entire workforce can also be peer-to-peer training , where an employee",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "who attends a training course (or workshop/seminar) shares the key learnings with other members of the team.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Awareness training and co-mentoring , where teams coach each other and swap expertise in one-to-one",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "sessions, can also allow organisations to make the best use of staff that already have specific digital skills.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Many countries and companies are right at the start of their AI journey, with AI education and training essential",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "to ensuring everyone benefits from AI. But this is not only the responsibility of businesses and starts with",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "government driven digital education in schools , with AI training made available to everybody, at all stages of",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "life, and especially in the least developed counties to help close (not expand) the global ‘digital divide’.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Can you tell the difference between AI and human",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "generated content?",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Can you identify if the below text and images are generated by AI?",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "The answer is at the back of this report…",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Q : Explain how AI could change travel and tourism over the next 10 years ?",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Example Answer 1:",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Over the next decade, AI is set to reshape the travel and tourism industry in various ways. With its ability to process",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "vast amounts of data, AI will offer personalised travel recommendations, optimise travel operations, and enhance",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "customer service through virtual assistants and chatbots. AI will act as a virtual travel concierge, providing real-",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "time assistance during travel and AI-powered smart recommendations will help travellers make better informed",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "decisions. However, the industry will need to navigate ethical considerations and strike a balance between the",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "benefits of AI and maintaining a human touch in the travel and tourism experience.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Example Answer 2:",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Over the next decade, artificial intelligence will have a major impact on the travel and tourism industry. AI tools will",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "be used to provide hyper-personalised recommendations for travellers, allowing companies to tailor suggestions",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "based on individual interests and budgets. AI chatbots and virtual assistants will become ubiquitous, helping tourists",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "research, book, and manage trips. AI could also help optimise routes and itineraries, reducing transit times and",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "creating more seamless journeys. Behind the scenes, AI will enable businesses to forecast demand more accurately,",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "adjust pricing dynamically, and target marketing campaigns more precisely. But while AI will streamline many",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "processes, human oversight and creativity will still be essential for delivering meaningful and memorable travel",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "experiences.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Q : Are any of the below holiday photos generated by AI ?",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "ANNEX : AI TERMINOLOGY",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "AI has introduced many new concepts and technical terms into business and everyday language. The below",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "table summarises some key terms that would be helpful for every business leader to have a basic appreciation",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "of at a high level. By understanding the basics of these concepts it will help to ground AI systems into",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "practical situations that business leaders can relate to .",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Examples",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Narrow AI",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Narrow AI (sometimes called weak AI )",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "is a type of AI that is designed to only",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "perform a specific task, or set of tasks.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Examples of narrow AI include smart",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "speaker",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "voice",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "assistants,",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "computers",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "capable of playing chess, or AI medical",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "systems able to analyse images and detect",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "cancer.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "These are narrow AI examples as they are",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "only able to perform tasks that they have",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "been specifically trained for – for example",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "the AI medical imager is not able to also",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "play chess.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Business leaders could use narrow AI",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "systems to automate tasks such as",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "repetitive data entry, transcribing speech,",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "or recommending products.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "General AI",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "General AI (sometimes called strong",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "AI , of Artificial General Intelligence",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "[AGI] ) is a type of AI that is designed",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "to perform any intellectual task that an",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "‘average’ human can do.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Whilst sophisticated AI chatbots have",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "been trained with very large non-topic",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "specific datasets and are therefore",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "able to do many impressive things and",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "recognised by Microsoft researchers as",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "able to exhibit early “sparks of artificial",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "general intelligence” 39 , true general AI,",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "which can rival human intelligence in all",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "aspects, remains a theoretical concept",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "and has not yet been achieved.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "True general AI would also require the AI",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "to be able to interact with the real world",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "(to perform tasks humans can do) and",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "therefore require embodiment – see",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "next definition.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "While AI is advancing rapidly, it is",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "important",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "business",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "leaders",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "understand the current limitations of",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "AI to manage expectations. Today’s AI",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "business applications utilise narrow AI",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "capable of on an individual task, or set",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "of tasks, which can enhance or augment",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "business capabilities.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "A true general AI assistant would be",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "able to perform any office management",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "task that a human could do and have",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "transformative capabilities such as fully",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "autonomous decision making, creative",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "problem solving skills and an ability to",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "conduct strategic planning across various",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "business functions. This does not yet",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "exist.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Embodiment",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Embodiment refers to the concept of",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "giving AI systems a physical or virtual",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "form that enables them to interact with",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "a world. This could involve embedding",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "AI into robots for interaction with the",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "physical world, or AI in virtual avatars",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "that can perceive and act upon a virtual",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "environment (such as in the ‘metaverse’).",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "An example of AI embodiment could be",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "a hotel that implements an AI powered",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "check in, or concierge robot, to assist",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "guests in the lobby and interact with them",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "in a safe and productive way.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Whilst embodiment is required for true",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "General AI to be realised, this hotel",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "example is a form of Narrow AI with",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "embodiment, as the robot is only able to",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "perform specific tasks – it cannot do all",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "tasks that a human could do, such as carry",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "guests’ luggage to their room.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Machine Learning",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Machine learning is a type of AI that",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "involves training algorithms with large",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "amounts of data, so that a computer",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "is capable of making predictions, or",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "decisions.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "An email spam filter can be an example",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "of an AI system using machine learning.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "By training an AI algorithm on a dataset",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "of known spam and non-spam emails, it",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "can learn to distinguish between the two",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "and is then able to automatically detect",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "and filter out new spam messages, even",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "though it has never seen them before.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Deep Learning",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Deep learning is a type of advanced",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "machine learning, which uses complex",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "mathematical structures inspired by the",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "human brain called ‘neural networks’. This",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "enables a computer to identify complex",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "patterns in data that would otherwise be",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "too difficult to identify using traditional",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "machine learning techniques.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "A bank could use deep learning algorithms",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "to detect fraudulent transactions, by",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "identifying patterns in complex financial",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "data.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Predictive AI",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Predictive AI is the general term for a",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "type of AI that uses data with either",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "machine learning, or deep learning, to",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "forecast future outcomes or behaviours.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "An airline could use predictive AI to",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "forecast future ticket demands and",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "optimise its pricing and sales strategy,",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "or a retailer could use predictive AI to",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "forecast the future demand for products,",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "which would help them to make informed",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "decisions on stock management and",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "production planning",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Generative AI is the general term for AI",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "systems that can create new and original",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "material such as text, images, video or",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "audio, which resembles human created",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "content.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "The roll out of Generative AI capabilities",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "to the public is widely regarding as",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "launching the current global interest in",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "AI chatbots are a form of Generative AI.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "A business could use generative AI tools",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "to produce product descriptions, press",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "releases or marketing copy, whereas a",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "media company could use Generative AI",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "to compose new music, or develop visual",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "advertising materials.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Large Language",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Models (LLM)",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Large Language Models (LLM’s ) are a type",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "of underlying AI architecture that are",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "specifically designed to understand and",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "generate human-like language. They are",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "trained on massive datasets of text and",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "computer code (hence the name Large",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "- Language Models) to develop a deep",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "understanding of language patterns,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "grammar and semantics, enabling them",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "to generate new coherent, relevant and",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "natural sounding text",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Large Language Models (LLM’s) can",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "perform a wide range of language related",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "tasks, such as real time translation, writing",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "documents, or answering questions in an",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "informative way.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "The terms LLM and Generative AI are",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "sometime used interchangeably, but are",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "in fact different. An LLM is the underlying",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "AI model that powers the language",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "capabilities of a Generative AI system",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "(such as an AI Chatbot).",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Foundational Models",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Foundational Models are a broader",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "category of underlying AI architecture,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "which includes LLM’s, but also AI models",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "trained with more than just text, such as",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "large datasets of images, video or audio",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Foundational models are also referred",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "to as ‘General Purpose AI’ in the EU",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "note that EU General Purpose AI are",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "foundational models able to be applied",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "to lots of areas and is not the same",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "as General AI, or Artificial General",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Intelligence (AGI) which is described",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "earlier in this table and refers to AI that",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "has the full intellectual capabilities of",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "humans.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Foundational models can serve as the",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "basis (hence the name Foundational) for",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "developing more specialised models. They",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "have wide uses and can be adapted (often",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "referred to as ‘fine tuned’) with industry",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "specific data and knowledge.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "For example a business may ‘fine tune’",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "an LLM with its company policies to",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "create an AI chatbot for its website,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "or a manufacturer may fine tune a",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "foundational ‘vision’ model with specific",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "product information to automatically",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "identify defects on its assembly line.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Prompting, Prompt",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Engineering and",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Prompt Design",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Prompting is the process of providing",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "instructions and examples to an AI",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "system to guide it towards a desired",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "output. Prompts could be in the form",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "of text, images or other types of data,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "depending on the AI system and its",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "capabilities.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "How a user prompts an AI system can",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "significantly influence the outcome and",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "results and therefore the related field",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "of Prompt Engineering and Prompt",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Design is about experimenting and",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "carefully crafting prompts to produce",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "better, safer and more useful results.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "For example a marketing team may use",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "prompt engineering to test multiple",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "variations of prompts with an AI writing",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "assistant, so that it generates the best",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "social media captions that are accurate, in",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "the desired style and friendly.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Prompts could include information such",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "as the:",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Task: For example to tell a",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Generative AI system to write a",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Context: For example the genre",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "of the poem to write",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Constraints: For example if there",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "is a limit to the number of words",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "A prompt could therefore be: “Write a",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "limerick poem about AI in less than 20",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "words”",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Hallucinations",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Hallucinations are outputs from AI",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "systems that may seem real, but are",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "in fact incorrect, or unrealistic. They",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "may come as the output from either",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Predictive or Generative AI systems",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "and are most likely to occur when the",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "AI algorithms have been trained on",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "incomplete, or inaccurate data.",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Hallucinations can be misleading (or even",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "dangerous) if not properly understood,",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "but can also be useful for generating",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "new creative content or exploring new",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "ideas, such as for drug discovery.",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "An example of hallucination may be",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "an AI chatbot providing a false answer,",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "rather than saying it doesn’t know the",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "answer to a question, or an AI powered",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "image recognition system that mistakenly",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "classifies products, leading to incorrect",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "order fulfilment.",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Hallucinations can sometimes be hard to",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "spot. For example if an AI system output",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "that 92 x 53 = 6784 (which is wrong), it",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "would be hard to spot as a hallucination",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "without manual verification. Preventing",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "hallucinations in business commercial",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "arrangements is especially important. For",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "example an AI system could incorrectly",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "give the wrong price to a customer for a",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "holiday.",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Tokens & Parameters",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Tokens and Parameters are technical",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "concepts within AI large language",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "and foundational models, that do not",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "need to be understood in detail by",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "business leaders, but are included here",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "as the performance of AI systems are",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "sometimes publicly referred to by their",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "token and parameter count and can",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "offer an approximate insight into the",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "capability of an AI system. It is therefore",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "useful to have an awareness of these",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "terms.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "In general more tokens and more",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "parameters usually mean better, with",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "bigger AI systems able to process, learn",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "and generate better outputs, but bigger",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "also means more computing resource,",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "power, time and money is required to",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "train and operate the AI system, so it can",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "also be a trade-off decision.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "For example two AI chatbots developed",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "in the UAE are called Falcon 7B and Falcon",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "40B which refers to their size of 7 billion",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "parameters and 40 billion parameters.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Models with smaller parameter counts are",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "best suited to simpler tasks and tasks that",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "require rapid responses, whereas models",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "with very large parameter counts are best",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "equipped to handle very complex and",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "highly creative tasks.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "It is also useful for business leaders to",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "understand the basic concept of tokens",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "and ‘token limits’ when selecting, or",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "interacting with AI chatbots. A rough ‘rule",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "of thumb’ is that 1 token = 0.75 words (75%).",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Therefore 100 tokens are approximately",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "equivalent to 75 words.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "If for example an AI chatbot states its",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "combined input and output is limited to",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "2000 tokens, this means if a user question",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "(e.g. prompt) is 100 tokens (~75 words), the",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "maximum output could be 1900 tokens (~",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "1425 words).",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Deliberately implementing token limits can",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "be disappointing to some and prevent AI",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "chatbots from generating very long form",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "outputs (such as many page documents),",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "but these limitations ensure the AI system",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "can generate coherent responses, manage",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "computational resources efficiently, and",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "generalise well across various contexts.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "However ongoing AI research aims to",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "maintain high quality outputs, with larger",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "token limits.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Alignment &",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Guardrails",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Alignment and Guardrails are two",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "very important concepts related to the",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "ethical development and deployment",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "of AI.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Alignment refers to ensuring that AI",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "systems objectives and behaviours",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "match human values and goals.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Guardrails can be guidelines, regulations,",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "or formal constraints implemented to",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "prevent AI systems from causing harm,",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "or behaving inappropriately.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "As a business leader, it is crucial to",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "establish alignment by defining the",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "ethical boundaries for AI usage in your",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "organisation (such as respecting user",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "privacy). Implementing guardrails ensures",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "that AI systems operate within those",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "defined boundaries.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "For example when using an AI recruitment",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "tool, an alignment mechanism could be",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "used to ensure the AI system does not",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "discriminate against certain groups of",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "people and a guardrail might be used",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "to prevent the AI system from accessing",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "certain types of data, such as personal",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "medical records.",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "QUIZ ANSWER",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Could you identify the AI generated content…?",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "It was a trick question – all of the text and images were generated by AI !",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "If you thought any were made by a human, this has hopefully demonstrated the power of AI.",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "ACKNOWLEDGEMENTS",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "AUTHOR",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "James McDonald",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Director, Travel Transformation",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "World Travel & Tourism Council (WTTC)",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "CONTRIBUTORS",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Julie Shainock",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Managing Director, Travel, Transport & Logistics (TTL)",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Microsoft",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Shane O’Flaherty",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Global Director, Travel, Transportation and",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Hospitality",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Smith Codio",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Director, Customer Experience of Automotive,",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Mobility & Transportation Industry",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "DESIGN",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Zoe Robinson",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "The Voice of Travel & Tourism.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "WTTC promotes sustainable growth for the Travel &",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Tourism sector, working with governments and international",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "institutions. Council Members are the Chairs, Presidents",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "and Chief Executives of the world’s leading private sector",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Travel & Tourism businesses.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "For more information, visit: www.WTTC.org",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Microsoft’s advancements in AI are grounded in our",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "company’s mission to empower every person and",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "organisation on the planet to achieve more — from helping",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "people be more productive to solving society’s most",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "pressing challenges.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "For more information, visit: www.microsoft.com/en-us/ai",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Cover: Mahdis Mousavi, Unsplash; Page 2, 3, 12 & 16:",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Shutterstock; Page 34 Umberto Few, Unsplash",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "IMAGES",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "1 ENDNOTES",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Beatles Now and Then YouTube Video ( https://youtu.be/Opxhh9Oh3rg )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Guardian – AI in Breast Cancer Screening ( https://www.theguardian.com/society/2023/aug/02/ai-use-",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "3 breast-cancer-screening-study-preliminary-results )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Politico – AI in Breast Cancer Screening ( https://www.politico.eu/article/ai-improves-breast-cancer-",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "4 detection-rate-20-percent-swedish-study )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "WIRED March 2019 – Godfathers of AI Boom Wins Computing’s Highest Honour ( https://www.wired.",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "5 com/story/godfathers-ai-boom-win-computings-highest-honor )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Science News – 90% of Worlds Data Generated in Last 2 Years ( https://www.sciencedaily.com/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "6 releases/2013/05/130522085217.htm )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "EU Parliament – AI Threats & Opportunities ( https://www.europarl.europa.eu/pdfs/news/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "7 expert/2020/9/story/20200918STO87404/20200918STO87404_en.pdf )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "CISCO Annual Internet Report 2023 ( https://www.cisco.com/c/en/us/solutions/collateral/executive-",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "8 perspectives/annual-internet-report/white-paper-c11-741490.html )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "North America Data Centres ( https://cloudscene.com/region/datacenters-in-north-america )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Made in China 2025 Roadmap – English Translation ( https://cset.georgetown.edu/wp-content/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "uploads/t0181_Made_in_China_roadmap_EN.pdf )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Reuters – China to Boost Chip Industry ( https://www.reuters.com/technology/china-launch-new-40-",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "11 bln-state-fund-boost-chip-industry-sources-say-2023-09-05 )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "EU Commission – EU Chips Act ( https://commission.europa.eu/strategy-and-policy/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "priorities-2019-2024/europe-fit-digital-age/european-chips-act_en )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "US White House Fact Sheet – US Chips & Science Act ( https://www.whitehouse.gov/briefing-room/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "supply-chains-and-counter-china )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "CNN – Intel CEO Interview ( https://edition.cnn.com/2023/01/17/tech/intel-ceo-chip-manufacturing-",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "davos/index.html )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Google TPU Accelerate AI Development ( https://cloud.google.com/tpu )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Google TPU System Architecture ( https://cloud.google.com/tpu/docs/system-architecture-tpu-vm )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Microsoft AI Supercomputer & Vision for Future of AI ( https://news.microsoft.com/source/features/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "ai/openai-azure-supercomputer )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Microsoft’s AI Supercomputer – YouTube ( https://youtu.be/Rk3nTUfRZmo )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "UK Government - £900M Investment in AI Exascale Computer ( https://www.gov.uk/government/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "news/government-commits-up-to-35-billion-to-future-of-tech-and-science )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "UK Government – Bristol University to Host UK AI Supercomputer ( https://www.gov.uk/government/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "news/bristol-set-to-host-uks-most-powerful-supercomputer-to-turbocharge-ai-innovation )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "UK Bristol University – Supercomputer for AI Discoveries ( https://www.bristol.ac.uk/news/2023/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "september/isambard-ai.html )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Stanford University Human Centred AI – Foundation Models ( https://hai.stanford.edu/news/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "reflections-foundation-models )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Google Research – Attention Is All You Need ( https://research.google/pubs/pub46201 )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "G7 Towards a Common Understanding of Generative AI ( https://www.oecd-ilibrary.org/science-and-",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "technology/g7-hiroshima-process-on-generative-artificial-intelligence-ai_bf3c0c60-en )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Sequoia Capital – Generative AI Market Map ( https://www.sequoiacap.com/article/generative-ai-act-",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "two )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "ITU Statistics ( https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "ITU Measuring Digital Development 2022 ( https://www.itu.int/en/ITU-D/Statistics/Pages/facts/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "default.aspx )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "UK Government - AI for Development at the UN General Assembly ( https://www.gov.uk/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "government/news/uk-sets-out-ai-for-development-vision-at-un-general-assembly )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "ITU Secretary General Speech – UN High Level Political Forum 2023 ( https://www.itu.int/en/osg/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Pages/Speeches.aspx?ItemID=18 )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Randstad Work Monitor Survey ( https://www.randstad.co.uk/workmonitor )",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Randstad Work Monitor Survey – Only 13% Offered AI Training ( https://www.randstad.com/",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "press/2023/over-50-believe-ai-will-future-proof-their-careers-only-13-have-been-offered-ai-training )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "GitLab Global Software Developer Survey ( https://about.gitlab.com/developer-survey )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "IBM Institute of Business Values AI Survey ( https://www.ibm.com/thought-leadership/institute-",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "business-value/en-us/report/augmented-workforce )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Microsoft Learn ( https://learn.microsoft.com/en-us )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Grow with Google ( https://grow.google/intl/uk/courses-and-tools )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "IBM AI Training ( https://www.ibm.com/training/ailearning )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "IBM Commits to AI Training for Underrepresented Communities ( https://newsroom.ibm.",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "com/2023-09-18-IBM-Commits-to-Train-2-Million-in-Artificial-Intelligence-in-Three-Years,-with-a-Focus-on-",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Underrepresented-Communities )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "IBM SkillsBuild ( https://skillsbuild.org )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "YouTube Culture & Trends Report 2023 ( https://blog.youtube/culture-and-trends/youtube-culture-",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "trends-report-2023 )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Microsoft Research Paper – Sparks of Artificial General Intelligence ( https://www.microsoft.com/en-",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "us/research/publication/sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4 )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "EU Parliament – General Purpose AI ( https://www.europarl.europa.eu/RegData/etudes/",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "ATAG/2023/745708/EPRS_ATA(2023)745708_EN.pdf )",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "eFootball Graphics Evolution – YouTube ( https://youtu.be/_wQ6IGAIqII )",
+      "page": 42
+    }
+  ]
+}

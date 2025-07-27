@@ -1,0 +1,2645 @@
+{
+  "title": "Microsoft PowerPoint - Ch1-Intro-IA-IFT6261-H-11",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction à L’Intelligence",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Artificielle",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Esma A A ï ï meur",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Universit",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Universit é é de Montr",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "de Montr é é al al",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "D D é é partement",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "partement d d ’ ’ informatique",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "informatique et de",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "et de recherche",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "recherche op",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "op é é rationnelle",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "rationnelle",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Montr",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Montr é é al, Canada",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "al, Canada",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Définition de l’intelligence",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Le but de l’Intelligence Artificielle (IA) est de concevoir des systèmes",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "capables de reproduire le comportement de l’humain dans ses activités",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "de raisonnement.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "L’IA se fixe comme but la modélisation de l’intelligence prise comme",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "phénomène (de même que la physique, la chimie ou la biologie qui ont",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "pour but de modéliser d’autres phénomènes).",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Test de Turing",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Test de Turing (1950)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Considérons trois joueurs",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "A : Homme, B : Femme, C : Homme ou Femme.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "C doit déterminer qui est l’homme et qui est la femme.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "A a pour rôle d’induire C en erreur, B a pour rôle de l’aider.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Le test de Turing : (on communique par clavier)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Question : si on faisait jouer le rôle de A à une machine est-ce que C",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "se tromperait aussi souvent ? => Les machines sont-elles capables de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "penser ?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Si le comportement de la machine est indistinguable de celui",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "d’un humain alors on pourrait en conclure que la machine est",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Intelligente)",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "La chambre chinoise",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "``Minds, Brains and Programs'' 1980",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "John Searle (professeur en philosophie a Berkeley) est enfermé dans une pièce ne",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "communiquant avec l'extérieur que par un guichet et contenant un (très) gros livre",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "dans lequel est écrit une succession de questions et de réponses pertinentes à ces",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "questions, et rédigées en chinois.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Searle précise qu'il ne connaît rien au chinois et que l'anglais est sa langue",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "maternelle.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Un expérimentateur lui transmet des messages par le guichet, tantôt en anglais,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "tantôt en chinois.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Searle répond directement aux messages rédigés en anglais alors que pour",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ceux rédigés en chinois, il est obligé de consulter le livre jusqu'à trouver une",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "question identique au message ; il recopie alors la réponse associée.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Remarque de Searle",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Searle fait alors remarquer que pour l'expérimentateur extérieur,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "les messages transmis en chinois sembleront aussi pertinents que ceux",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "transmis en anglais.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Pourtant Searle connaît l'anglais alors qu'il ne connaît rien au",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "chinois.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "De manière analogue, on ne peut pas déduire du fait qu'un programme passe",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "avec succès le test de Turing qu'il comprenne de quoi il est question.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Deux écoles",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "• Une machine sera considérée comme intelligente si elle reproduit",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "le comportement d'un être humain dans un domaine spécifique ou",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "• Une machine sera considérée comme intelligente si elle",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "modélise le fonctionnement d'un être humain.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Exemple : Le jeu d’échèc",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Dans le premier cas, on essaiera avant tout d'obtenir un programme efficace.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Peu importe alors que la machine fasse des calculs inaccessibles à l'homme,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "comme explorer quelques centaines de millions (ou milliards) de positions à la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "seconde.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Dans le second , on essaiera d'abord de comprendre comment l'homme joue aux",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "échecs.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Pour cela, on interviewera des maîtres, on essaiera de dégager les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "règles plus ou moins consciemment suivies par les joueurs : tenter d'occuper le",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "centre, de dominer une couleur de cases, etc. Le programme réalisé validera",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Historique de l'IA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La préhistoire 1945-1955",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Traduction automatique du langage => problème de représentation et",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "d'extraction des connaissances et problème de rédaction générique.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Intelligence artificielle dans la littérature et le cinéma de science fiction",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(Films: Odyssée 2001 de Kubrick,  IA de Spielberg)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Apparition du mot robot pour la première fois en 1923 dans la pièce de theâtre",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "« R.U.R » ( Rossum’s Universal Robots) écrite par Karel Capek.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "En 1950, Isaac Asimov (auteur de Science fiction avec un backround",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "scientifique) propose ses trois Lois de la robotique .",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Un robot ne doit pas attenter a la vie d’un humain",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Un robot doit obeir aux ordres d’un humain sauf si cela contredit la première",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Un robot doit préserver sa propre existence sauf si cela contredit aux deux",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "premières lois)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(Film I, Robot avec Will Smith, 2004)",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1955-1970",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Les débuts 1955-1970",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": " Pourtant, Kasparov n’a été battu par la machine Deep Blue qu’en 1997 !",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Le système ELIZA (de Joseph Weizenbaum, au MIT), en repérant",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "des expressions clés dans des phrases et en reconstruisant à partir",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "d’elles des phrases toutes faites, était capable, dès 1965, de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "dialoguer en langage naturel en trompant un moment des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "interlocuteurs qui croyaient avoir affaire à un psychologue humain !",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Pourtant, ELIZA ne détenait aucune compréhension réelle des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "phrases qu’il traitait. C’est sans doute le système SHRDLU de Terry",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Winograd qui, en 1970, fut le premier à « comprendre » quelque",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "chose à la langue naturelle et à exploiter cette compréhension dans",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "des dialogues qui portaient sur un monde simplifié fait de blocs.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Traitement du langage naturel",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "• J’ai vu un homme sur la colline avec des jumelles.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "• Le professeur envoya l’élève chez le directeur parce qu’il",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "voulait lui lancer des boulettes à la figure.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Historique de l’IA (suite)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1970 : SCHRDLU, logiciel conçu par Terry Winograd. Il simule la manipulation",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "de blocs géométriques (cubes, cylindres, pyramides, ...) posés sur une",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "table. Le logiciel génère automatiquement des plans (<< Pour déplacer le cube",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "bleu sur le sommet du cylindre jaune, je dois d'abord enlever la pyramide qui",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "se trouve sur le cube et ...>>) et est muni d'une interface en langage naturel.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Les systèmes experts, parmi lesquels :",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1969 : DENDRAL : analyse des résultats d'une spectrographie de masse",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1967 : MACSYMA (logiciel de calcul formel)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1977 : MYCIN (maladies infectieuses).",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "HEARSAY-II en compréhension de la parole,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "PROSPECTOR en géologie.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "La spécialisation 1970-1980 (spécialisation et théorisation)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "L'IA est le carrefour de plusieurs disciplines : informatique, logique,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "linguistique, neurologie et psychologie). Naissance du langage Smalltalk",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "en 80",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Simon recoit le prix Nobel en économie en 1978",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "La reconnaissance 1980-1990 (crédibilité et audience)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Projet de cinquième génération  par MITI (3 alphabets pour les japonais :",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "le Katakana, l'Hiragana et le Kanji => idéogrammes)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "MITI est l'ancien acronyme du nom du ministère de l'économie japonais",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "remplacé aujourd'hui par METI .",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "A partir des années 1980",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Des techniques spécifiques à l’informatique ont été développées à partir",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "des années 1980 : les réseaux de neurones qui simulent l’architecture",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "du cerveau humain, les algorithmes génétiques qui simulent le",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "processus de sélection naturelle des individus, la programmation",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "logique inductive qui fait « marcher à l’envers » le processus habituel",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "de déduction, les réseaux bayésiens qui se fondent sur la théorie des",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "probabilités pour choisir, parmi plusieurs hypothèses, la plus",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "satisfaisante.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Fin des années 1980",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "L’IA s’est essentiellement focalisée sur les théories et techniques",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "permettant la réalisation d’intelligences individuelles. Dans la nature, il",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "existe toutefois une autre forme d’intelligence – collective celle-là,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "comme les êtres multicellulaires simples, les colonies d’insectes sociaux ,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "les sociétés humaines . Ces sources d’inspiration montrent qu’une forme",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "d’intelligence supérieure peut résulter de l’activité corrélée d’entités plus",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "simples. Dans les systèmes artificiels, ce champ porte le nom d’« IA",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "distribuée » ou de « systèmes multiagents ».",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Années 1990-2000",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "L’avènement d’Internet a ouvert la voie au partage et à la",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "communication de connaissances. Comment organiser et traiter ces",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "gigantesques masses d’information ? Comment en extraire les",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "connaissances pertinentes pour les problèmes posés ? Les moteurs de",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "recherche comme Google ont intégré dans leurs tâches des",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "techniques avancées de recherche d’information ( information",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "retrieval ) et d’intelligence artificielle ( data mining ).",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Années 1990-2000 (suite)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "En 1994 , une équipe française met au point dans le cadre de ses",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "recherches en vie artificielle les « Jardins des hasards » Ce sont des",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "jardins virtuels dont l’évolution est fonction de données numériques",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "reçues par modem en temps réel. Ils sont composés de plusieurs familles",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "de formes qui naissent, grandissent, meurent et interagissent entre elles",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "suivant des comportements inspirés de la vie. Ils constituent des",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "écosystèmes de vie artificielle.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Les couleurs des objets changent avec les données météo et avec le",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "temps chronologique au fil des jours et des saisons.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "En 1995, le système automatique de vision ALVINN de Carnegie",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Mellon University a permis la conduite automatique d’un véhicule",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "appelé Navlab5 de Pittsburgh à San Diego, pendant que les opérateurs",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "humains s’occupaient du frein et de l’accélérateur.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "En 1997, à Philadelphie, le champion du monde aux échecs,",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "GarryKasparov, a été battu par Deep Blue, un ordinateur d’IBM, en six",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "manches. Kasparov a gagné la première, a perdu la seconde et a très",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "mal joué le reste. Furieux, il a dû s’incliner devant la machine.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Kasparov got wiped off the board, a déclaré le grand maître Ilya",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Gurevich.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Années 1990-2000 (Fin)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Toujours en 1997, a eu lieu pour la première fois RoboCup, le",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "championnat des robots qui jouent au football (ou au soccer, si vous",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "préférez ce terme nord-américain). Cela s’est passé à Nagoya, au Japon,",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "lors de la conférence IJCAI-97.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "En 1999, un agent artificiel et intelligent de la NASA a piloté un",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "satellite au-delà de la planète Mars pendant une journée entière sans",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "aucune aide en provenance de la Terre.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Les années 2000",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "L’acquisition de connaissances a permis quant à elle la création",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "d’ontologies de diverses natures. Citons par exemple le Unified",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Medical Language System .",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Succès du traitement de langage naturel , WordNet est une base de",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "données lexicale en anglais et OpenCyc est une base de connaissances",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "qui formalise les connaissances de sens commun.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Ontology",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Les années 2000 (suite)",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "L’apprentissage en ligne, ou e-learning , est en pleine expansion. L’IA a",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "permis grâce à ses techniques de mettre en œuvre des systèmes",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "d’éducation à distance de plus en plus performants.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Il y a une meilleure prise en compte du profil de l’apprenant (cognitif,",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "affectif et inférentiel), une construction le plus souvent collaborative de",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "la base de connaissances (curriculum), une interaction plus intelligente",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "entre le système et l’apprenant, etc.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "ITS Architecture",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Learner Model",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Planner",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Session",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Manager",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Interface",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Pedagogical Model",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Pedagogical",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "agents",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Curriculum",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Learning strategies",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Didactic",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Resources",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Adidactic",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Basic Strategy",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "soft 13",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "soft 14",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "soft 15",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "soft 16",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "soft 17",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "soft 18",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "soft 19+",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Par ailleurs, il existe de plus en plus de systèmes de recommandation de",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "produits ou de services sur le Web : films, livres, cours, restaurants,",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "voyages, trajets d’autobus ou de métro.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Ils sont tous basés sur des techniques d’IA comme le raisonnement à",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "base de cas, le filtrage de contenu ( content filtering ) ou le filtrage",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "collaboratif ( collaborative filtering ). Certains d’entre eux prennent en",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "compte les données démographiques mais aussi les habitudes d’achat du",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "client ainsi que le comportement de navigation sur le web ( web usage",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "mining ).",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Le système Captcha , développé à Carnegie Mellon University,",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "s’occupe de différencier les humains des machines. Captcha génère des",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "tests que seuls les humains peuvent passer, afin de combattre les spams",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "et les actions malicieuses de certaines machines.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "L’équipe américaine de Sargur Srihari, directeur du Center of",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "excellence for document analysis and recognition (CEDAR, State",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "University of New York at Buffalo), a mis au point en 2002 un",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "logiciel capable de distinguer avec 98 % de certitude si deux",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "documents ont été écrits par la même personne ou non. Les travaux",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "ont été effectués sur un échantillon de 1 500 personnes.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Doté d’une tête d’androïde et d’une peau en polymère, K-Bot (conçu par",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "David Hanson de l’université du Texas ) peut reconnaître et suivre nos",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "mouvements. Il est doté de 24 muscles mécaniques qui lui permettent de",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "simuler 24 de nos expressions faciales.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Ceci peut servir considérablement aux chercheurs qui étudient la",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "communication humain-machine.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Wakamaru , robot développé par Mitsubishi Heavy Industries et doté",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "de la parole, est principalement conçu pour veiller sur les personnes",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "âgées. Destiné à s’insérer dans la vie familiale de tout un chacun, il",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "aura pour mission de prévenir l’hôpital ou les services de santé en cas",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "de besoin.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Du 26 janvier au 7 février 2003 , à New York, Garry Kasparov s’est",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "mesuré durant six parties d’échec à Deep Junior, trois fois champion du",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "monde des logiciels.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "La rencontre s’est soldée par une égalité 3 à 3 .",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "À la différence du fameux tournoi de 1997, le champion âgé de 39 ans a",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "eu tout le loisir de s’entraîner au préalable sur un PC avec la version",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "commerciale de Deep Junior , qui n’est pas loin du niveau de l’actuel",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Deep Junior sur la même machine. Il est capable de passer en revue trois",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "millions de positions à la seconde !",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Le 13 janvier 2004, une firme québécoise rapporte dans le Medical Post",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "la mise en marché d’un système portatif d’alerte cardiaque appelé Vital",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Positioning System (VPS).",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Incluant un téléphone cellulaire, un ordinateur de poche et un GPS, ce",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "système peut détecter l’approche d’une attaque cardiaque 8 minutes",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "avant que les premiers symptômes ne soient humainement perceptibles.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Il appelle alors automatiquement l’hôpital le plus proche et précise",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "l’emplacement du futur patient.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Quelques domaines de l’IA",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Les systèmes experts (médecine, analyse financière, configuration d'appareils)",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Tâche de diagnostic, de surveillance ou de dépannage d'installations industrielles.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Robotique et FAO (fabrication assistée par ordinateur)",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Introduction de robots qui acquièrent l'information à l'aide de capteurs ou de caméras",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "afin de se mouvoir dans des environnements diversifiés.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Compréhension du langage et traduction automatique",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Apparition d'interfaces en langage naturel => interrogation de bases de données en",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "français ou en anglais (exemple : film Dune).",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Reconnaissance des formes (reconnaissance de la parole, de l'image et de l'écriture)",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "IBM utilise une interface auditive qui reconnait 20 000 mots anglais tirés du",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "vocabulaire des affaires et qui les écrit à l'écran.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Apprentissage créer des programmes qui génèrent leurs propres connaissances en",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "se modifiant à partir de leurs succès et leurs erreurs.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "L' émotion artificielle. ( les travaux de Rosalind Picard sur l'émotion)",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Domaines de recherche en IA",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Apprentissage-machine",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Ce processus donne à un agent la capacité d’effectuer des tâches qui ne",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "pouvaient pas l’être auparavant ou d’effectuer de façon plus efficace",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "(plus rapidement et plus précisément) les tâches desquelles il s’acquittait",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "déjà.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Les systèmes d’apprentissage analytiques ont pour but d’analyser et de",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "mettre sous une forme plus efficace ou « opérationnelle » les",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "connaissances déjà existantes. Les systèmes d’apprentissage synthétiques",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "ont pour but de découvrir des connaissances fondamentalement",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "nouvelles.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Réalité virtuelle",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Ce domaine propose de nouvelles formes d’interaction entre l’homme et",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "la machine. L’arrivée d’ordinateurs plus puissants, dotés",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "d’impressionnantes capacités graphiques en trois dimensions, couplés à",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "des périphériques de visualisation et d’interaction (casque, gant, etc.),",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "permet de fournir les informations sensorielles nécessaires pour",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "convaincre des utilisateurs qu’ils sont en immersion.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Larry Hedges du Georgia Institute of Technology utilise depuis",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "longtemps la réalité virtuelle pour guérir certaines phobies comme celles",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "de l’ascenseur ou celles des araignées.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Reconnaissance des formes",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Les recherches dans ce domaine visent à automatiser le discernement de",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "situations typiques sur le plan de la perception. Ses méthodes trouvent",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "des applications nombreuses. Citons la vision, la reconnaissance de la",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "parole, la lecture optique de documents et la synthèse d’images .",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Les progrès en reconnaissance d’images vidéo permettent déjà à la police",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "de repérer une cible dans une foule.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Vie artificielle",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Ce domaine s’intéresse à l’étude des écosystèmes et à la reproduction,",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "par des systèmes artificiels, de caractéristiques propres aux systèmes",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "vivants (depuis les mécanismes de fonctionnement cellulaire jusqu’aux",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "dynamiques de peuplement, en passant par des modèles de",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "développement individuel).",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Robotique",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Sous-domaine important de l’IA, la robotique peut être vue comme",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "une interconnexion intelligente de la perception, de l’action, ainsi",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "que du fonctionnement des robots.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Utilisée pour maintenir des représentations dynamiques de leur",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "environnement, elle permet aux robots de se munir de capacités de",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "sentir, de se déplacer, de raisonner et éventuellement de",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "communiquer en langage naturel.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Indexation multimédia",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Les ressources multimédia que l’on retrouve aujourd’hui sur le Web",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "sont à la fois nombreuses, volumineuses et parfois non pertinentes.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Aussi l’IA propose-t-elle des outils pour la « fouille » de bases de",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "données ( data mining ) afin d’en extraire des connaissances",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "synthétiques ou d’y découvrir des informations cachées, de",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "diagnostiquer des situations, ou d’aider à superviser la conduite de",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "systèmes.",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Applications de l’IA",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Diagnostic médical, thérapie, surveillance d’appareils",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Synthèse d’images, vision par ordinateur",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Classifications naturelles (biologie, minéralogie, …)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Planification de tâches (prédictions financières, ...)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Architecture (conception assistée par ordinateur)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Détection de pannes (Sherlock pour les avions F16)",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "Applications de l’IA (suite)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Éducation (Systèmes Tutoriels Intelligents, e-Learning)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Génie (vérification de règles de design)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Prospection géologique (gisements miniers)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Centrales nucléaires, feux de forêts (systèmes à temps réel)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Simulateurs de vols (CAE, Bombardier, …)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Jeux (vidéos)",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "Biblio Autre Forum",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Comparaison des méthodes",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "de l'intelligence artificielle et des méthodes",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "informatiques classiques",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Méthodes classiques",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Méthodes d'intelligence artificielle",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Types de raisonnement en IA",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Le raisonnement est un enchaînement d'énoncés ou de",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "représentations symboliques conduit en fonction d'un but",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "(démontrer, convaincre, élucider, interpréter, décider,",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "justifier, expliquer) en général non linéaire (retours arrière)",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "comme la démarche humaine.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Le raisonnement formel",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Le raisonnement procédural",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Le raisonnement par analogie",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Le raisonnement par généralisation et abstraction",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Le raisonnement géométrique",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Raisonnement formel",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Raisonnement logique,",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Raisonnement approximatif,",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "• Raisonnement temporel",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Raisonnement procédural",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "•Le raisonnement procédural => algorithmes et automates",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "d'états finis (raisonnement par classification et raisonnement",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "distribué et modèle de tableau noir)",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "Raisonnement par analogie",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "• Le raisonnement par analogie (raisonnement à partir de cas)",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Cycle du CBR",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "Raisonnement par généralisation",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "•Le raisonnement par généralisation et abstraction (raisonnement par",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "classification raisonnement par induction)",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "Raisonnement géométrique",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "•Le raisonnement géométrique (Synthèse d'images , reconnaissances",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "des formes, localisation d'objets, vision par ordinateur)",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "Acquisition des connaissances",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Explicitation",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Modélisation",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Acquisition des",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "connaissances",
+      "page": 32
+    },
+    {
+      "level": "H1",
+      "text": "Problématique de l'acquisition de",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "• Les connaissances d'un expert sont subjectives et difficiles à formaliser.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "• Les formalismes utilisés pour la représentation des connaissances ne",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "permettent pas un bon niveau d'abstraction et restent liés à",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "l'implantation.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "• Comment organiser les connaissances en vue de leur traitement ?",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "• Transfert d'expertise => Modélisation des connaissances et de la",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "méthode de résolution de problèmes",
+      "page": 32
+    },
+    {
+      "level": "H1",
+      "text": "Types de connaissances",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Connaissances déclaratives (le savoir)",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "La population du Québec était de 7 800 000 habitants en 2009.",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Connaissances procédurales (le savoir faire)",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Une recette de cuisine => faire un gateau au chocolat.",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Connaissances conceptuelles (combine les deux)",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Le concept de référendum fera appel aux connaissances procédurales :",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "installation des bureaux de votes et constitution des listes électorales ;",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "la connaissance déclarative est : un bulletin nul n'est pas compté.",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "Données problématiques",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Redondance : calcul du rapport (long tête/hauteur du corps) alors que l ’on a",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "les rapports (long tête/long standard) et (hauteur du corps /long standard)",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Corrélation : la taille de la fontanelle diminue en même temps",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "que la taille du corps augmente",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Synonymie : posture du corps (presque droit, C, faiblement courbé)",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Ambiguité : couleur (foncé, noir)",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Information cachée : forme mâle, forme femelle",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Imprécision : poisson de grande taille",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": " Absence : absence de paupière adipeuse",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "Évolution des processus",
+      "page": 34
+    },
+    {
+      "level": "H1",
+      "text": "d’acquisition de connaissances",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "techniques",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "manuelles",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "semi-automatiques",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Apprentissage",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "machine",
+      "page": 34
+    },
+    {
+      "level": "H1",
+      "text": "Les systèmes à base de connaissances",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Autre appellation : systèmes experts",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Base de connaissances : elle contient l'ensemble des informations spécifiques au",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Base de faits : elle contient l'ensemble des faits relatifs au problème.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Base de règles : elle contient l'ensemble des règles de production et des connaissances",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Moteur d'inférences : il réalise le fonctionnement créatif du système en sélectionnant",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Méta-règles : il s'agit des règles destinées à guider le moteur d'inférences quant à la",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Raisons favorisant le développement d'un système expert :",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Existence d'un grand nombre d'observations systématiques",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Existence d'une procédure d'analyse et de prise de décisions acceptée",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Importance des paramètres qualitatifs , non seulement quantitatifs »",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "solution algorithmique impossible",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Solutions souhaitées non évidentes du premier coup, ou difficiles à",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "obtenir autrement",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Intérêt économique du projet (disponibilité d'une information intelligente",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "24/24h, complexité excessive, etc.)",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Développement d’un système",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "expert",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Phases de développement",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "1.Spécification du cahier des charges",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "2.Choix d'une architecture du système, de son interface utilisateur, et d'un",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "langage de traitement.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Prévision des mécanismes de modification ultérieure du système",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "3.Sélection d'un sous-ensemble représentatif du problème pour l'élaboration",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "d'un démonstrateur",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "4.Acquisition des informations et élaboration du mécanisme d'ajout et",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "de modification de la base de connaissances",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "5.Implantation du \"moteur d'inférences\" (règles d'inférence)",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "6.Test, ajustement et documentation du système",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Catégories de systèmes experts",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Catégories",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Types de problèmes",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "Exemples de systèmes experts",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "Le système MEDIC",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Base de faits : symptômes du patient (examen clinique,",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "examens biologiques, radiologiques et fonctionnels)",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Deux Bases de règles : expertise de l’expert sur les ictères",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "rétentionnels chirurgicaux",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Moteur d’inférences => chaînage bidirectionnel",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Chaînage avant : suspicion de diagnostics",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Chaînage arrière : confirmation ou infirmation de diagnostics",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Chaînage avant : thérapie et pronostic",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "Traitement symbolique des",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Traitement de l'information numérique (premiers ordinateurs)",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Traitement alphanumérique (bases de données)",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Traitement symbolique (en intelligence artificielle on traite des faits",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "Représentation des connaissances",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Formalismes de représentation :",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "• Logique des propositions (pas de quantificateurs et pas variables)",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "• Logique de premier ordre (introduction de variables et de quantificateurs)",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "• Règles de production",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Représentation structurées",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "• Réseaux sémantiques",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "• Frames",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "• Logiques terminologiques KL-ONE",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "• Graphes conceptuels",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "Exemple en logique propositionnelle et",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "en logique du premier ordre",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "La phrase \"Zola a écrit Germinal\" peut se représenter de la",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "façon suivante :",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "(AUTEUR, ZOLA )  (LIVRE, GERMINAL)",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Pour représenter  la phrase \"quelqu'un a écrit Germinal\",",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "on peut utiliser formule atomique formée d'un prédicat et de",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "deux termes (réduits à des constantes) :",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": " x,  A-ECRIT (x, GERMINAL)",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "Exemple de règle de production",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "\" S'il n'y a pas d'image mais que vous entendez le son, vérifiez",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "le réglage d'intensité de l'écran\"",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Si non IMAGE et SON Alors INTENSITÉ-ÉCRAN",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "Exemple de réseau sémantique",
+      "page": 40
+    },
+    {
+      "level": "H1",
+      "text": "Exemples de graphes conceptuels",
+      "page": 40
+    },
+    {
+      "level": "H1",
+      "text": "Exemple de logique terminologique",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "Ingénierie de la connaissance",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Questions que doit résoudre un cogniticien",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quelles sont les données à fournir au système ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quels sont les résultats produits par le système, comment sont-ils présentés ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quels sont les types de problèmes ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quelles sont les caractéristiques des solutions ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quels types de connaissances doit-on acquérir ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quelles sont les relations entre données ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quel est le degré de précision des données et des résultats à fournir ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quels sont les postulats de base (parfois implicites) de l'expert ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quelles sont les contraintes à respecter dans les données ou les solutions ?",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": " Quels sont les problèmes faciles, fréquents, difficiles ou intéressants ?",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "Tâches en ingéniérie des",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Identifier la connaissance",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Expliciter la connaissance",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Structurer la connaissance",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Représenter la connaissance",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Utiliser, valider, raffiner, et",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "mettre à jour la connaissance",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "Nature de la connaissance d'un",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "La connaissance de l'expert est",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "• compilée",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "• volatile",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "• subjective",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "• répartie",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "Perspectives futures en IA",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "Vers un futur coopératif",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "une tâche individuelle",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "une tâche coopérative",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "Un futur plus agréable pour l’humain ?",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Nous sommes encore loin des espoirs et désespoirs prédits par les",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "auteurs de science-fiction dans des films tels que 2001 : Odyssée de",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "l’espace , Intelligence artificielle , La Matrice et Terminator .",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Le but ultime de l’intelligence artificielle n’est pas de remplacer",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "l’humain, mais bien de le décharger afin qu’il puisse se concentrer sur",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "des tâches de plus en plus créatives ou agréables.",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Tim Menzies a dit : « Je rêve encore au jour où mon processeur Word",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "écrirait un article comme celui-ci, pendant que moi je vais à la",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "plage ! »7. Y arrivera t-on un jour ? Peut-être…",
+      "page": 45
+    }
+  ]
+}

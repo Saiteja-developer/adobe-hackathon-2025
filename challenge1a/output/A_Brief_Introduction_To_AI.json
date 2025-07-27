@@ -1,0 +1,870 @@
+{
+  "title": "A Brief Introduction to Artificial Intelligence",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "A Brief Introduction to Artificial Intelligence",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "What is AI and how is it going to shape the future",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "By Dibbyo Saha, Undergraduate Student, Computer Science, Ryerson University",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "What is Artificial Intelligence?",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Generally speaking, Artificial Intelligence is a computing concept that helps a",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "machine think and solve complex problems as we humans do with our intelligence.",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "For example, we perform a task, make mistakes and learn from our mistakes (At",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "least the wise ones of us do!). Likewise, an AI or Artificial Intelligence is supposed",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "to work on a problem, make some mistakes in solving the problem and learn from",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "the problems in a self-correcting manner as a part of its self-improvement. Or in",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "other words, think of this like playing a game of chess. Every bad move you make",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "reduces your chances of winning the game. So, every time you lose against your",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "friend, you try remembering the moves you made which you shouldn’t have and",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "apply that knowledge in your next game and so on. Eventually, you get better and",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "your precision, or in this case probability of winning or solving a problem",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "improves by a noteworthy extent. AI is programmed to do something similar to",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "that!",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Artificial Intelligence vs Traditional Robotics",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "When we hear the word “Robot”, an image of a metal box with creepy eyes and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "speaking in a mechanical voice pops into our head. I mean that’s what we have",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "been watching in television for years, isn’t it? And to a certain degree we are right.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Traditional robotics has been perceived by pop culture as an arena that creates",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humanlike machines to work for us as saviours and sometimes as super-villains",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "bringing in a cascade of tyranny into the human world. However, real life robots",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "aren’t as humanlike as we want them to be, yet. They are programmed in a specific",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "way to only execute tasks that it has been programmed to perform.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Imagine a self-driving car that has been designed to drive you on its own according",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "to where you instruct it to take you. Now for a traditional robot, the car is going to",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "go through the exact road that it was programmed to select for a certain destination",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "by its creators, possibly without the knowledge of traffic and cause accidents.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "However, a human driver would have chosen the shortest path or check which",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "paths have the least traffic today and would be the most convenient path for that",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "particular destination. That is the exact humanlike creative thinking the traditional",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "robots lack! They are fixed in their own “not so smart” way and are largely",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "dependent on the program they are built on and the instructions that they are being",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "given. If a certain instruction doesn’t coincide with their program, the robot won’t",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "even be able to run, let alone going the extra step of being creative. This is the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "limitation of traditional robots Artificial Intelligence is being developed to",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "overcome. Unlike the conventional “bips and bops”, a good AI will simulate the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "complicated and intuitive sense of thinking and problem-solving abilities of the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "human mind.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "A Brief History of AI",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The concept of Artificial Intelligence is not as modern as we think it is. This traces",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "back to as early as 1950 when Alan Turing invented the Turing test. Then the first",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "chatbot computer program, ELIZA, was created in the 1960s. [1] IBM deep blue was",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "a chess computer made in 1977 beat a world chess champion in two out of six",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "games, one won by the champion and the other three games were draw. [2]",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "In 2011, Siri was announced as a digital assistant by Apple. [3]",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Elon Musk and some others founded OpenAI in 2015. [4][5]",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Artificial Intelligence vs Machine Learning vs Deep Learning",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Up until now in this article we were discussing about Artificial Intelligence as a",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "process that is going to help machines achieve a humanlike mental behaviour. AI is",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "a vast and growing field which also includes a lot more subfields like machine",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "learning and deep learning and so on. Machine learning is in a nutshell the concept",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "of computers learning to improve their predictions and creativity to resemble a",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanlike thinking process using algorithms. Machine learning involves a number",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "of learning processes such as:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Supervised learning : Supervised learning is a process where our machines",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "are designed to learn with the feeding of labelled data. In this process our machine",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "is being trained by giving it access to a huge amount of data and training the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "machine to analyze it. For instance, the machine is given a number of images of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "dogs taken from many different angles with colour variations, breeds and many",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "more diversity. So that, the machine learns to analyze data from these diverse",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "images of dogs and the “insight” of machines keep increasing and soon the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "machine can predict if it’s a dog from a whole different picture which was not even",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "a part of the labelled data set of dog images the machine was fed earlier.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Unsupervised",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "learning :",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Contrary",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "supervised",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "learning,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "unsupervised learning algorithms comprises analyzing unlabelled data i.e., in this",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "case we are training the machine to analyze and learn from a series of data, the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "meaning of which is not apparently comprehendible by the human eyes. The",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "machine looks for patterns and draws conclusions on its own from the patterns of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the data. Important thing to remember that the dataset used in this instance is not",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "labelled and the conclusions are drawn by the machines.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Reinforcement learning : Reinforcement learning is a feedback dependent",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "machine learning model. In this process the machine is given a data and made to",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "predict what the data was. If the machine generates an inaccurate conclusion about",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the input data, the machine is given feedback about its incorrectness. For example,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "if you give the machine an image of a basketball and it identifies the basketball as a",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "tennis ball or something else, you give a negative feedback to the machine and",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "eventually the machine learns to identify an image of a basketball on its own when",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "it comes across a completely different picture of a basketball.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Deep Learning, on the other hand is the concept of computers simulating the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "process a human brain takes to analyze, think and learn. The deep learning process",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "involves something called a neural network as a part of the thinking process for an",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "AI. It takes an enormous amount of data to train deep learning and a considerably",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "powerful computing device for such computation methods.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "AI at Work Today",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The most common examples of uses of Artificial Intelligence can be found today",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "in smart personal assistants like Apple’s Siri and Amazon’s Alexa. People interact",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "with these devices to command them on a daily basis and these devices use the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "commands as a part of their dataset to learn from. Another known example of",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Artificial Intelligence is the use of algorithms in Netflix. Netflix provides very",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "much accurate and relevant suggestions of movies, tv series from our data which is",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "created every time we stream or click on something in Netflix. As the dataset for",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "these systems grows, their accuracy and precision increase as well. Artificial",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Intelligence is also viewed as a great tool for better cybersecurity. Many banks are",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "using AI as a means to identify unauthorized credit cards uses. From analyzing",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "complex genetic data to perform the most delicate surgeries at the highest precision",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "is also being worked on to integrate with AI. We all know about companies like",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Tesla and Apple working to make flawless self-driving cars which is going to have",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "game changing impacts on the future of transportation.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Concerns about AI",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "One of the most immediate concerns about Artificial Intelligence is the fear of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "losing jobs. Artificial Intelligence enhancing automation is also causing huge job",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "losses around the world. According to a Forbes article, it is predicted that by 2025",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "automation will cause a loss of 85 million jobs. [6] Bigger fears regarding AI",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "includes the scenario whereas machines become smarter and smarter they going to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "end up being as opinionated and biased like some of the people training it.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Automatization of weapons is also a big reason people worry about the future of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Artificial Intelligence. The idea that weapons can be used to search and target",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "someone with pre-programmed instructions and the misuse of this by governments",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "or mafias or rogue AI can be something very deadly and devastating. However,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "there are many myths in disguise of concerns surrounding AI that spreads panic",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and misinformation. AI today is nowhere near to become a super-intelligent entity",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and turn into our overlords like in sci-fi movies. However, heavy regulations and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "cautions are being advised by Big Tech giants like Elon Musk while developing",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "this industry.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Artificial Intelligence and The Future",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "It is said that AI is the greatest thing humankind has ever worked on. AI is being",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "used in image and speech recognition and analysis which will be far better than",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "human recognition of image and speech and its application stretches wide and far.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "There are research and works being conducted using AI that is going to play a very",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "important role in our future healthcare. AI is being worked on to cure Alzheimer’s",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "disease and someday even blindness. Someone with dyslexia is being helped to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "read better with the help of AI. Genetic data is being analyzed by bioinformatics;",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "data science integrated with AI for way better data analysis in healthcare that has",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "not been possible for us in the past. Fields like cancer research and other such",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "diseases are being impacted greatly by advanced applications of AI. AI can be a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "great tool in the future of education. AI can be used to analyze data from an",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "individual’s personal and intellectual needs, capabilities, choices and limitations to",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "develop customized curriculum, strategies and schedules that will be more well",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "suited, appealling and inclusive of most, if not all, children and adults. The uses of",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "AI are also going to change the way we are going to commute in the future. In",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "addition to self-driving cars, work is being done to manufacture “self-flying”",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "planes and drones that conveniently deliver your food faster and better. One of the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "biggest concerns about AI is that jobs are being replaced due to automation.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "However, AI might be creating more jobs than it replaces. This will change the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "way humans work by creating new types of jobs.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "AI is still in a fairly preliminary (but rapidly growing) stage today and it requires",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "more and more training to develop. Trainers, engineers, system designers and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "software developer jobs in machine learning, data science and many such related",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "fields are being created in abundance. New business and investment opportunities",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "are also on the rise due to endless AI applications in agriculture, education,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "transportation,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "finance,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "biotechnology,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "cybersecurity,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "gaming",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "etc. As new",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "businesses are being created so are new jobs. Many existing jobs are becoming",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "redefined and more specialised which is really important for the new world to",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "prosper and advance.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Towards Conclusion…",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "The growth of Artificial Intelligence in recent times has been exponential. We",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "cannot even imagine how big and impactful AI is going to be in the near future and",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "how drastically it is going to change and upgrade the world we live in today. There",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "are a lot more to learn about AI and its rapidly growing applications in our life. I",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "believe it would be wise to adapt to this changing world and acquire skills related",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "to Artificial Intelligence and technology. Just like AI learns and develops, we",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "should too - to make this world a better place.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "References:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "[1] https://news.harvard.edu/gazette/story/2012/09/alan-turing-at-100/",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "[2] https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "[3] https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "digital-assistants-predict-what-you-need-3671725.html",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "[4] https://openai.com/blog/introducing-openai/",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "[5] https://www.bbc.com/news/technology-35082344",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "[6] https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-ro",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "bots-tech-and-artificial-intelligence-will-take-millions-more/?sh=57d352421a52",
+      "page": 8
+    }
+  ]
+}

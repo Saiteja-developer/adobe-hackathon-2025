@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "timestamp": "2025-07-27T01:28:05.355958"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Not all forms are fillable. Sometimes form creators dont convert their PDFs to",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning.",
+      "importance_rank": 2,
+      "page_number": 11
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Did you enter the email addresses of clients, agents, and other",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile",
+      "importance_rank": 4,
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Certify options provide a higher level of document control than Digitally sign. For documents",
+      "importance_rank": 5,
+      "page_number": 24
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill in PDF Forms Is the form fillable? Not all forms are fillable.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Create a blank PDF You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning. This process can be useful for creating a one-page PDF.",
+      "page_number": 11
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "• Did you enter the email addresses of clients, agents, and other • Customize Your Message • Have you added a personal touch to the subject and message fields, highlighting key property details? • Create and Share the Link • Did you generate a shareable link and copy it for distribution?",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile apps (iOS and Android).",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Certify options provide a higher level of document control than Digitally sign. For documents that require certification, you must certify the documents before others sign them.",
+      "page_number": 24
+    }
+  ]
+}
