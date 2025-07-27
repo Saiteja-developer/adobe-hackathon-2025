@@ -1,63 +1,91 @@
-Challenge 1a: PDF Outline Extraction Engine
+# Challenge 1a: PDF Outline Extraction Engine
 
-Overview
-This repository contains our solution for Challenge 1a of the Adobe India Hackathon 2025. The objective is to extract structured outlines (Title, H1, H2, H3 headings with page numbers) from input PDF files and export them as clean, standardized JSONs. The solution is optimized for speed, accuracy, multilingual support, and offline usage inside a Docker container running on AMD64 CPUs.
+## Overview
+This repository contains our solution for Challenge 1a of the Adobe India Hackathon 2025.  
+The objective is to extract structured outlines (Title, H1, H2, H3 headings with page numbers) from input PDF files.
 
-Official Challenge Guidelines
+---
 
-Submission Requirements
-- GitHub Repository: Private project with complete source code
-- Dockerfile: Must be present and support linux/amd64
-- README.md: Describes architecture, libraries used, and execution process
+## Official Challenge Requirements
 
-Build Command
+- **GitHub Repository:** Private, with complete source code
+- **Dockerfile:** Must be present and support `linux/amd64`
+- **README.md:** Must describe architecture, libraries used, and execution process
+
+---
+
+## Quick Start
+
+### Build the Docker Image
+
+```sh
 docker build --platform linux/amd64 -t pdf-outline-extractor:final .
+```
 
-Run Command (Linux/macOS)
+### Run the Docker Container
+
+#### On Linux/macOS
+```sh
 docker run --rm \
   -v $(pwd)/input:/app/input:ro \
   -v $(pwd)/output:/app/output \
   --network none \
   pdf-outline-extractor:final
+```
 
-Run Command (Windows PowerShell)
+#### On Windows PowerShell
+```ps1
 docker run --rm `
   -v ${PWD}\input:/app/input:ro `
   -v ${PWD}\output:/app/output `
   --network none `
   pdf-outline-extractor:final
+```
 
-Constraints
-Execution Time: ≤ 10 seconds (50 pages)
-Model Size: ≤ 200MB
-Network: Offline only
-Runtime Platform: CPU-only, AMD64 arch
-Input Folder: Mounted read-only
+---
 
-Solution Structure
-Challenge_1a/
+## Constraints
+
+- **Execution Time:** ≤ 10 seconds (for 50 pages)
+- **Model Size:** ≤ 200MB
+- **Network:** Offline only
+- **Platform:** CPU-only, AMD64 architecture
+- **Input Folder:** Mounted as read-only
+
+---
+
+## Solution Structure
+
+```
+challenge_1a/
 ├── app/
-│   ├── main.py              # Entry point for batch PDF processing
-│   ├── utils.py             # Heading detection and classification logic
-│   └── requirements.txt     # Python dependencies
-├── input/                   # Directory for input PDF files (mounted)
-├── output/                  # Directory where output JSONs are saved
-├── Dockerfile               # Builds the Docker image
-├── .dockerignore            # Ignore unnecessary files
-└── README.md                # This documentation file
+│   ├── main.py            # Entry point for batch PDF processing
+│   ├── utils.py           # Heading detection and classification logic
+│   └── requirements.txt   # Python dependencies
+├── input/                 # Input PDF files (mounted)
+├── output/                # Output JSONs
+├── Dockerfile             # Docker image builder
+├── .dockerignore          # Ignore unnecessary files
+└── README.md              # Documentation (this file)
+```
 
-Sample Implementation
+---
 
-Highlights
-- Extracts Title, and detects H1, H2, H3 levels using:
-  - Font size clustering via KMeans
-  - Positional and styling heuristics
+## Highlights
+
+- **Extracts Title, H1, H2, H3** using:
+  - KMeans font size clustering
+  - Positional & styling heuristics
   - Unicode normalization for multilingual inputs
-- Works on multi-column layouts
-- Fully compatible with Japanese, French, and Spanish
-- Uses PyMuPDF for fast layout parsing
+- **Handles multi-column layouts**
+- **Supports** Japanese, French, and Spanish
+- **Uses PyMuPDF** for fast layout parsing
 
-Output Sample
+---
+
+## Output Format (example)
+
+```json
 {
   "title": "Parsippany -Troy Hills STEM Pathways",
   "outline": [
@@ -68,59 +96,71 @@ Output Sample
     }
   ]
 }
+```
 
-Docker Configuration
+- Each PDF in `/app/input/` produces a `.json` in `/app/output/` with:
+  - `"title"`: Inferred document title
+  - `"outline"`: List of heading objects (level, text, page)
+
+---
+
+## Dockerfile Reference
+
+```dockerfile
 FROM --platform=linux/amd64 python:3.10-slim
 WORKDIR /app
 COPY app/ /app/
 RUN pip install -r requirements.txt
 CMD ["python", "main.py"]
+```
 
-Expected Output Format
-Each PDF file in the /app/input/ directory will generate a corresponding .json file in /app/output/ following this structure:
+---
 
-- "title": Inferred document title
-- "outline": Array of heading objects
-  - "level": H1 / H2 / H3
-  - "text": Heading content
-  - "page": Page number (1-indexed)
+## Implementation Guidelines
 
-Implementation Guidelines
+- **Performance**
+  - Filters text spans (removes empty lines, footnotes)
+  - Uses font-based clustering for heading detection
+  - Unicode support via `unicodedata`
+- **Robustness**
+  - Handles PDFs with/without titles
+  - Detects heading hierarchies, even with inconsistent fonts
+  - No hardcoding; works with unseen, noisy PDFs
 
-Performance Strategy
-- Text span filtering to exclude empty lines or footnotes
-- Font-based clustering for accurate heading level detection
-- Multilingual Unicode support via unicodedata
+---
 
-Robustness
-- Handles PDFs without a Title
-- Detects heading hierarchies even with inconsistent fonts
-- No hardcoding; works on unseen, noisy PDFs
+## Testing Locally
 
-Testing Your Solution
-------------------------
-Local Testing (Linux/macOS)
+### Linux/macOS
+
+```sh
 docker build --platform linux/amd64 -t pdf-outline-extractor:final .
 docker run --rm \
   -v $(pwd)/input:/app/input:ro \
   -v $(pwd)/output:/app/output \
   --network none \
   pdf-outline-extractor:final
+```
 
-Local Testing (PowerShell)
+### Windows PowerShell
+
+```ps1
 docker build --platform linux/amd64 -t pdf-outline-extractor:final .
 docker run --rm `
   -v ${PWD}\input:/app/input:ro `
   -v ${PWD}\output:/app/output `
   --network none `
   pdf-outline-extractor:final
+```
 
-Validation Checklist
------------------------
-- All PDFs processed from /app/input/
-- Outputs written as /app/output/filename.json
-- Output structure matches required schema
-- ≤ 10 seconds processing time for 50-page PDF
-- No internet dependency during execution
-- Memory usage ≤ 16GB
-- Fully offline and CPU-compliant
+---
+
+## Validation Checklist
+
+- [ ] All PDFs processed from `/app/input/`
+- [ ] Outputs written as `/app/output/filename.json`
+- [ ] Output structure matches schema
+- [ ] ≤ 10 seconds processing for 50-page PDF
+- [ ] No internet dependency during execution
+- [ ] ≤ 16GB memory usage
+- [ ] Fully offline and CPU-compliant
