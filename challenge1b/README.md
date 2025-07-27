@@ -4,37 +4,38 @@ Overview
 --------------
 This repository contains our solution for Challenge 1b of the Adobe India Hackathon 2025. The objective is to analyze a collection of related PDFs based on a specific persona and job-to-be-done. The goal is to extract the five most relevant sections from the documents and summarize them with their refined content in a structured JSON output.
 
-The system is:
-Offline-first
-CPU-only
-Domain-agnostic
-Supports multiple persona-task combinations across diverse sectors like travel, education, business, and food
+The system is:  
+Offline-first  
+CPU-only  
+Domain-agnostic  
+Supports multiple persona-task combinations across diverse sectors like travel, education, business, and food  
 
 Official Challenge Guidelines
 Submission Requirements
 -------------------------
-GitHub Repository: Private with all code and sample outputs
-Dockerfile: Must target linux/amd64
-README.md: Should document architecture, libraries used, and execution instructions
+GitHub Repository: Private with all code and sample outputs  
+Dockerfile: Must target linux/amd64  
+README.md: Should document architecture, libraries used, and execution instructions  
 
 Constraints
 ------------------------
-Execution Time: ≤ 60 seconds
-Model Size: ≤ 1 GB
-Network: Offline only
-Platform: CPU-only
-Output: Structured JSON with:
-metadata
-extracted_sections
-subsection_analysis
+Execution Time: ≤ 60 seconds  
+Model Size: ≤ 1 GB  
+Network: Offline only  
+Platform: CPU-only  
+Output:  
+Structured JSON with:  
+metadata  
+extracted_sections  
+subsection_analysis  
 
 Build Command
 --------------
-bash
+bash  
 docker build --platform linux/amd64 -t adobe-1b-runner .
 
-Run Command (Linux/macOS)
-bash
+Run Command (Linux/macOS)  
+bash  
 docker run --rm \
   -v $(pwd):/app \
   --network none \
@@ -50,40 +51,40 @@ docker run --rm `
 
 Solution Structure
 ----------------------
-Challenge_1b/
-├── Collection_1/
-│   ├── PDFs/
-│   ├── challenge1b_input.json
-│   └── challenge1b_output.json
-├── Collection_2/                  # You can add any number of collections
-│   ├── PDFs/
-│   ├── challenge1b_input.json
-│   └── challenge1b_output.json
-├── src/
-│   ├── main.py
-│   ├── parse_pdf.py
-│   ├── semantic_ranker.py
-│   ├── summarizer.py
-│   └── generate_output.py
-├── Dockerfile
-├── requirements.txt
-├── README.md
-└── approach_explanation.md
+Challenge_1b/  
+├── Collection_1/ 
+│   ├── PDFs/  
+│   ├── challenge1b_input.json  
+│   └── challenge1b_output.json  
+├── Collection_2/               # You can add any number of collections 
+│   ├── PDFs/  
+│   ├── challenge1b_input.json  
+│   └── challenge1b_output.json  
+├── src/  
+│   ├── main.py  
+│   ├── parse_pdf.py  
+│   ├── semantic_ranker.py  
+│   ├── summarizer.py  
+│   └── generate_output.py  
+├── Dockerfile  
+├── requirements.txt  
+├── README.md  
+└── approach_explanation.md  
 
 Libraries Used
 ------------------
-pdfplumber: PDF parsing and layout extraction
-scikit-learn: TF-IDF vectorization and cosine similarity
-numpy: Vector operations and matrix transformations
-nltk: Sentence tokenization and extractive summarization
+pdfplumber: PDF parsing and layout extraction  
+scikit-learn: TF-IDF vectorization and cosine similarity  
+numpy: Vector operations and matrix transformations  
+nltk: Sentence tokenization and extractive summarization  
 
 Performance Strategy
 ---------------------------
-Extracts block-level text from all pages
-Filters low-density or noisy blocks
-Scores relevance using TF-IDF + cosine similarity
-Summarizes top 5 blocks using sentence ranking
-Works without hardcoding domain or language
+Extracts block-level text from all pages  
+Filters low-density or noisy blocks  
+Scores relevance using TF-IDF + cosine similarity  
+Summarizes top 5 blocks using sentence ranking  
+Works without hardcoding domain or language  
 
 Output Format (challenge1b_output.json)
 ---------------------------------------
